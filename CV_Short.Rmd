@@ -4,7 +4,6 @@ output:
     latex_engine: pdflatex
     template: formatting.tex
 geometry: margin=1in
-
 title: "CV"
 author: Dr Caitlin D. Kuempel
 #orcid: "orcid.org/0000-0002-9577-6885"
@@ -16,161 +15,315 @@ github: cdkuempel
 #phone: "+1 555 5555"
 #web: 'hrnelson.com'
 updated: no
-
 keywords: RMarkdown, academic CV, template
-
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 9 pt
 linkcolor: blue
 urlcolor: blue
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
+
 # Education
 
-*The University of Queensland*, PhD Conservation Science, St. Lucia, QLD, Australia \hfill Nov. 2014- Aug. 2018
+*The University of Queensland*, PhD Conservation Science, St. Lucia,
+QLD, Australia \hfill Nov. 2014- Aug. 2018
 
-*Northeastern University*,  M.S. Marine Biology, Nahant, MA \hfill Dec. 2013
 
-*University of Iowa*, B.S. Environmental Biosience (with honors), B.A. French, Certificate in Sustainability, Honors in coral morphometrics, Iowa City, IA \hfill May 2012
+*Northeastern University*, M.S. Marine Biology, Nahant, MA \hfill Dec.
+2013
+
+
+*University of Iowa*, B.S. Environmental Biosience (with honors), B.A.
+French, Certificate in Sustainability, Honors in coral morphometrics,
+Iowa City, IA \hfill May 2012
 
 # Professional Experience
 
-*Lecturer, Marine Ecosystem Modelling, Griffith University, Nathan, Australia* \hfill July 2022-present
+Lecturer, Marine Ecosystem Modelling, Griffith University, Nathan,
+Australia \hfill July 2022-present
 
-*Post-doctoral Fellow, ARC Centre of Excellence for Coral Reef Studies, UQ, Brisbane, Australia* \hfill Feb. 2020-June 2022
+Post-doctoral Fellow, ARC Centre of Excellence for Coral Reef Studies,UQ, Brisbane, Australia \hfill Feb. 2020-June 2022
 
-*Post-doctoral Fellow, NCEAS, Santa Barbara, CA* \hfill Sept. 2018-Dec. 2019
+Post-doctoral Fellow, NCEAS, Santa Barbara, CA \hfill Sept. 2018-Dec.
+2019
 
-*Conservation Planning Consultant, IUCN and The University of Queensland* \hfill July-Aug.2018
+Conservation Planning Consultant, IUCN and The University of
+Queensland \hfill July-Aug.2018
 
-*Volunteer Researcher: University of Queensland and WWF Indonesia* \hfill Sept.-Oct. 2016 
+Volunteer Researcher: University of Queensland and WWF Indonesia
+\hfill Sept.-Oct. 2016
 
-*Research Assistant: Smithsonian Tropical Research Institute, Bocas del Toro, Panama* \hfill April-Oct. 2014
+Research Assistant: Smithsonian Tropical Research Institute, Bocas del Toro, Panama \hfill April-Oct. 2014
 
-*Conservation Intern: Central Caribbean Marine Institute, Little Cayman, Cayman Islands* \hfill Jan.-April 2014
+Conservation Intern: Central Caribbean Marine Institute, Little Cayman, Cayman Islands \hfill Jan.-April 2014
 
-*Short-Term Fellow: Smithsonian Tropical Research Institute, Bocas del Toro, Panama* \hfill June-Dec. 2013
+Short-Term Fellow: Smithsonian Tropical Research Institute, Bocas del
+Toro, Panama \hfill June-Dec. 2013
 
-*Research Assistant: University of Iowa Department of Geoscience, Iowa City, IA* \hfill May 2009-2010
+Research Assistant: University of Iowa Department of Geoscience, Iowa
+City, IA \hfill May 2009-2010
 
 # Service Roles
+
 ## **Academic**
-- Australian Rivers Institute Early Career Researcher representative (2023- present)
-- Griffith Coding Club co-founder and organiser
-- World Wildlife Fund Monitoring and Data Management Lead
-- Centre for Biodiversity and Conservation Science Management Committee (2021-2022)
-- NCEAS Diversity Team representative (2018-2019)
-- Reviewer for international publications
-- Society for Conservation Biology University of Queensland/Brisbane Chapter (2015-2017)
-- PhD seminar series, The University of Queensland, St. Lucia, QLD, Australia (2014-2015)
+
+-   Australian Rivers Institute Early Career Researcher representative
+    (2023- present)
+-   Griffith Coding Club co-founder and organiser
+-   World Wildlife Fund Coral Reef Rescue Initiative Monitoring and Data Management Lead (2020-2022)
+-   Centre for Biodiversity and Conservation Science Management
+    Committee (2021-2022)
+-   NCEAS Diversity Team representative (2018-2019)
+-   Reviewer for international publications
+-   Society for Conservation Biology University of Queensland/Brisbane
+    Chapter (2015-2017)
+-   PhD seminar series, The University of Queensland, St. Lucia, QLD,
+    Australia (2014-2015)
 
 ## **Community**
-- RLadies Brisbane Organising Comittee
-- Software Carpentries instructor
-- UNEP MPA Toolbox and Learning Platform (2021)
-- STEM engagement activities
-    - Linn-Mar High School Ventures program mentor
-    - UQ Twilight Talk Series 2020
-    - Brisbane Girls Grammar School Year 9 Geography incusion
-- Reef Life Survey Volunteer (2017)
-- Queensland Catch a Rising Star Program, Queensland National Science Week (2016)
+
+-   RLadies Brisbane Organising Comittee (2020-present)
+-   Software Carpentries instructor
+-   UNEP MPA Toolbox and Learning Platform (2021)
+-   STEM engagement activities
+    -   Brisbane Girls Grammar School Year 9 Geography incursion (2023)
+    -   Linn-Mar High School Ventures program mentor (2022-present)
+    -   UQ Twilight Talk Series (2020) -Queensland Catch a Rising Star
+        Program, Queensland National Science Week (2016)
+-   Reef Life Survey Volunteer (2017)
 
 ## **Professional Membership**
 
-Reef Life Survey, Australian Marine Sciences Association, Australian Coral Reef Society, Society for Conservation Biology, International Society for Reef Studies
+Reef Life Survey, Australian Marine Sciences Association, Australian
+Coral Reef Society, Society for Conservation Biology, International
+Society for Reef Studies
 
 # Grants and Awards
-- CBCS Small Grants Scheme ($4,500 across three successful proposals) \hfill (2021)
-- University of Queensland Faculty of Science Awards Rising Star - Academic category Finalist \hfill (Dec. 2020)
-- APEC Science Prize for Innovation, Research and Education Award - shortlisted for Australian nominee (2020)
-- University of Queensland Dean's Award for Outstanding HDR Theses (2018)
-- ARC Laureate Postgraduate Scholarship ($119,376 over 4	years) \hfill Nov 2014-2018
-- Seafood Footprint Displacement Top-up Scholarship (Dr. Carissa Klein, $5,000) \hfill March-June 2018
-- 50 Reefs Top-up Scholarship ($5,000) \hfill Sept. 2017
-- University of Queensland Career Development Award ($5,000) \hfill May 2017
-- Taylor and Francis University of Queensland Library Excellence Award in Research ($1,000) \hfill	May 2017
-- Smithsonian Tropical Research Institute Short-Term Fellowship ($2,000) \hfill June-Nov. 2013
 
-# Peer-Reviewed Publications
+-   CBCS Small Grants Scheme (\$4,500 across three successful proposals)
+    \hfill (2021)
+-   University of Queensland Faculty of Science Awards Rising Star -
+    Academic category Finalist \hfill (Dec. 2020)
+-   APEC Science Prize for Innovation, Research and Education Award -
+    shortlisted for Australian nominee (2020)
+-   University of Queensland Dean's Award for Outstanding HDR Theses
+    (2018)
+-   ARC Laureate Postgraduate Scholarship (\$119,376 over 4 years)
+    \hfill Nov 2014-2018
+-   Seafood Footprint Displacement Top-up Scholarship (Dr. Carissa
+    Klein, \$5,000) \hfill March-June 2018
+-   50 Reefs Top-up Scholarship (\$5,000) \hfill Sept. 2017
+-   University of Queensland Career Development Award (\$5,000)
+    \hfill May 2017
+-   Taylor and Francis University of Queensland Library Excellence Award
+    in Research (\$1,000) \hfill  May 2017
+-   Smithsonian Tropical Research Institute Short-Term Fellowship
+    (\$2,000) \hfill June-Nov. 2013
+
+# Peer-Reviewed Publications (h-index 13)
+
 <!-- > 22. Froehlich, H.E., Afflerbach, J.C., Williams, D.R., *Kuempel, C.D.*, O'Hara, C., Halpern, B.S. (in review). Integrating aquaculture into sustainable fisheries management. *Proceedings of the National Academy of Sciences* -->
+
 <!-- > 20. Davidson, L.N.K., Brown, C.J., Shumway, N., Holden, M., Jones, K. Klein, C., *Kuempel, C.D.*, Stuart-Smith, R.D., McGowan, J., Possingham, H.P.P., Watson, J.E.M., Dulvy, N.K. (in revision). Gaps in threatened marine species protection inside and beyond MPAs. *Nature Sustainability* -->
 
-1. *Kuempel, C.D.*, Frazier, M., Verstaen, J., Rayner, P.E., Blanchard, J.L., Bouwman, L., Cottrell, R.S., Froehlich, H.E., Gephart, J.A., Jacobsen, N.S., McIntyre, P.B., Metian, M., Moran, D., Nash, K.L., Tobben, J., Williams, D.R., Halpern, B.S. (2023). Environmental footprints of farmed chicken and salmon bridge the land and sea. *Current Biology*
-2. Halpern, B.S., Frazier, M., Verstaen, J., Rayner, P.E., Clawson, S.G., Blanchard, J.L., Cottrell, R.S., Froehlich, H.E., Gephart, J.A., Jacobsen, N.S., *Kuempel, C.D.*, McIntyre, P.B., Metian, M., Moran, D., Nash, K.L., Tobben, J., Williams, D.R. (2022). The environmental footprint of global food production. *Nature Sustainability*
-3. Hicks, C.C. Gephart, J.A., Koehn, J.Z., Nakayama, S., Payne, H., Allison, E.H., Delhabib, D., Cao, L., Cohen, P.J., Fanzo, J., Fluet-Chouinard, E., Gelcich, S., Golden, C.D., Gorospe, K.D., Isaacs, M., *Kuempel, C.D.*, Lee, K.N., MacNeil, M.A., Maire, E., Njuki, J., Rao, N., Sumaila, U.R., Selig, E.R., Thilsted, S.H., Wabnitz, C.C.C., Naylor, R.L. (2022). Rights and representation support justice across aquatic food systems. *Nature Food*
-4. Klein, C.J., *Kuempel, C.D.*, Watson, R.A., Teneva, L., Coll, M., Mora, C. (2022). Global fishing between jurisdictions with unequal fisheries management. *Environmental Research Letters*
-5. Almaraz, M., *Kuempel, C.D.*, Salter, A., Houlton, B.Z., Halpern, B.S. (accepted). The impact of excessive protein consumption on human wastewater nitrogen loading of US waters. *Frontiers in Ecology and the Environment*
-6. Clawson, S.G., Blasco, G., *Kuempel, C.D.*, Froehlich, H.E., Cottrell, R.S., Metian, M., Tobben, J., Williams, D.R., Nash, K.L., Frazier, M., Verstaen, J., Halpern, B.S. (2022). Mapping the spatial distribution of global mariculture production. *Aquaculture*
-7. Williams, B.A., Watson, J.E.M., Beyer, H.L., Klein, C.J., Montgomery, J., Runting, R.K., Roberson, L.A., Halpern, B.S., Grantham, H.S., *Kuempel, C.D.*, Frazier, M., Venter, O., Wenger, A. (2021). The global rarity of intact coastal regions. *Conservation Biology*
-8. *Kuempel, C.D.*, Simmons, B.A., Davey, M.(2022) Assessing he status of existing and tentative marine natural World Heritage areas reveals opportunities to better achieve World Heritage Convention goals. *Journal of Environmental Management*
-9. *Kuempel, C.D.*, Tulloch, V.J.D., Giffin, A.L., Simmons, B.A., Hagger, V., Phua, C. and Hoegh-Guldberg, O. (2021). Identifying management opportunities to combat climate, land and marine threats across less climate exposed coral reefs. *Conservation Biology*
-10. Roberson, L., Beyer, H.L., O'Hara, C., Watson, J.E.M., Dunn, Daniel, Klein, C.J., Frazier, M., *Kuempel, C.D.*, Williams, B., Grantham, H., Montgomery, J., Kark, S., Runting, R.K. (2021). Multinational coordination required for conservation of at least 90% of marine species. *Global Change Biology*
-11. *Kuempel, C.D.*, Chauvenet, A.L.M., Symes, W.S., Possingham, H.P.P. (2021). Predicted protected area downsizing decreases habitat representation across terrestrial ecoregions in the tropics and subtropics. *Conservation Science and Practice*
-12. Suarez-Castro, A.F., Beyer, H.L., *Kuempel, C.D.*, Linke, S., Borelli, P., Hoegh-Guldberg, O. (2021). Global forest restoration opportunities to foster coral reef conservation. *Global Change Biology*
-13. Cottrell, R.S., Metian, M., Froehlich, H.E., Blanchard, J.L., Jacobsen, N.S., McIntyre, P.B., Nash, K.L., Williams, D.R., Bouwman, L., Gephart, J.A., *Kuempel, C.D.*, Moran, D.D., Troell, M., Halpern, B.S. (2021) Time to rethink trophic levels in aquaculture policy. *Reviews in Aquaculture*
-14. *Kuempel, C.D.*, Froehlich, H.E., Halpern, B.S. (2021) An informed though experiment exploring the potential for a paradigm shift in aquatic food production. *Ocean and Coastal Management*
-15. Adams, V.M., Dimitrova, N., Possingham, H.P., Allan, J.R., *Kuempel, C.D.*, Peterson, N., Kaiye, A. Keako, M., Tulloch, V.J.D. (2021) Scheduling incremental actions to build a comprehensive national protected area netowrk for Papua New Guinea. *Conservation Science and Practice*
-16. Chauvenet, A.L.M., Watson, J.E.M., Adams, V.M., Di Marco, M., Venter, O., Davis, K.J., Mapping, B., Klein, C.J., *Kuempel, C.D.*, Possingham, H.P. (2020). To achieve big wins for conservation, prioritise protection of ecoregions closest to meeting targets. *One Earth*
-17.  *Kuempel, C.D.*, Frazier, M., Nash, K.L., Sand Jacobsen, N., Williams, D.R., Blanchard, J.L., Cottrell, R.S., McIntyre, P.B., Moran, D., Bouwman, L., Froehlich, H.E., Gephart, J.A., Metian, M., Tobben, J., Halpern, B.S. (2020). Integrating life-cycle and impact assessments to map food's cumulative environmental footprint. *One Earth*
-18. Daigle, R., Metaxas, A., Balbar, A., McGowan, J., Treml, E., *Kuempel, C.D.*, Possingham, H., Beger, M. (2020). Operationalizing ecological connectivity to identify spatial conservation priorities with Marxan Connect. *Methods in Ecology and Evolution*
-19. *Kuempel, C.D.*, Chauvenet, A.L.M.,  Possingham, H.P., Adams, V.M. (2020). Evidence-based guidelines for prioritizing investments to meet international conservation objectives. *One Earth*
-20. Halpern, B.S., Blanchard, J.L., Bouwman, L., Cottrell, R.S., Froehlich, H.E., Gephart, J.A., Sand Jacobson, N.,*Kuempel, C.D.*, McIntyre, P.B., Metian,  M., Moran, D., Nash, K.L., Tobben, J., Williams, D.R. (2019). Opinion: Putting all food on the same table: Achieving sustainable food systems requires full accounting. *Proceedings of the National Academy of Sciences*
-21. *Kuempel, C.D.*, Jones, K.J., Watson J.E.M., Possingham, H.P. (2019). Quantifying biases in placement of marine protected areas relative to abatable biodiversity threats. *Conservation Biology*
-22. Jantke, K., *Kuempel, C.D.*, McGowan, J.M., Chauvenet, A.L.M., Possingham, H.P. (2018). Metrics for evaluating representation target achievement in protected area networks. *Diversity and Distributions*
-23. Jones, K.J., Klein, C.J., Halpern, B.S., Venter, O., Grantham, H., *Kuempel, C.D.*, Shumway, N., Friedlander, A.M., Possingham, H.P., Watson, J.E.M. (2018). The location and protection status of Earth’s diminishing marine wilderness. *Current Biology*
-24. *Kuempel, C.D.* Adams, V.M., Possingham H.P., Bode M. (2018) Bigger or better: the relative benefits of protected area network expansion and enforcement for the conservation of an exploited species. *Conservation Letters*
-25. Campbell, J.E., Altieri, A.H., Johnston, L., *Kuempel, C.D.*, Paperno, R., Paul, V.J., Duffy, J.E. (2018) Herbivore community determines the magnitude and mechanism of nutrient effects on subtropical and tropical seagrass. *Journal of Ecology*
-26. Chauvenet, A.L.M., *Kuempel C.D.*, McGowan J., Beger, M., Possingham, H.P. (2017). Methods for calculating Protection Equality for conservation planning. *PloS one*
-27. *Kuempel, C.D.* and Altieri A. H. (2017). The emergent role of small-bodied herbivores in pre-empting phase shifts on degraded coral reefs. *Scientific Reports*
-28. *Kuempel, C.D.*, Chauvenet, A.L.M., and Possingham H.P. (2016). Equitable representation of ecoregions is slowly improving despite strategic planning shortfalls. *Conservation Letters*
-29. Nelson, H.R., *Kuempel, C.D.*, and Altieri, A.H. (2016). The resilience of reef invertebrate biodiversity to coral mortality. *Ecosphere*
+1.  *Kuempel, C.D.*, Frazier, M., Verstaen, J., Rayner, P.E., Blanchard,
+    J.L., Bouwman, L., Cottrell, R.S., Froehlich, H.E., Gephart, J.A.,
+    Jacobsen, N.S., McIntyre, P.B., Metian, M., Moran, D., Nash, K.L.,
+    Tobben, J., Williams, D.R., Halpern, B.S. (2023). Environmental
+    footprints of farmed chicken and salmon bridge the land and sea.
+    *Current Biology*
+2.  Halpern, B.S., Frazier, M., Verstaen, J., Rayner, P.E., Clawson,
+    S.G., Blanchard, J.L., Cottrell, R.S., Froehlich, H.E., Gephart,
+    J.A., Jacobsen, N.S., *Kuempel, C.D.*, McIntyre, P.B., Metian, M.,
+    Moran, D., Nash, K.L., Tobben, J., Williams, D.R. (2022). The
+    environmental footprint of global food production. *Nature
+    Sustainability*
+3.  Hicks, C.C. Gephart, J.A., Koehn, J.Z., Nakayama, S., Payne, H.,
+    Allison, E.H., Delhabib, D., Cao, L., Cohen, P.J., Fanzo, J.,
+    Fluet-Chouinard, E., Gelcich, S., Golden, C.D., Gorospe, K.D.,
+    Isaacs, M., *Kuempel, C.D.*, Lee, K.N., MacNeil, M.A., Maire, E.,
+    Njuki, J., Rao, N., Sumaila, U.R., Selig, E.R., Thilsted, S.H.,
+    Wabnitz, C.C.C., Naylor, R.L. (2022). Rights and representation
+    support justice across aquatic food systems. *Nature Food*
+4.  Klein, C.J., *Kuempel, C.D.*, Watson, R.A., Teneva, L., Coll, M.,
+    Mora, C. (2022). Global fishing between jurisdictions with unequal
+    fisheries management. *Environmental Research Letters*
+5.  Almaraz, M., *Kuempel, C.D.*, Salter, A., Houlton, B.Z., Halpern,
+    B.S. (accepted). The impact of excessive protein consumption on
+    human wastewater nitrogen loading of US waters. *Frontiers in
+    Ecology and the Environment*
+6.  Clawson, S.G., Blasco, G., *Kuempel, C.D.*, Froehlich, H.E.,
+    Cottrell, R.S., Metian, M., Tobben, J., Williams, D.R., Nash, K.L.,
+    Frazier, M., Verstaen, J., Halpern, B.S. (2022). Mapping the spatial
+    distribution of global mariculture production. *Aquaculture*
+7.  Williams, B.A., Watson, J.E.M., Beyer, H.L., Klein, C.J.,
+    Montgomery, J., Runting, R.K., Roberson, L.A., Halpern, B.S.,
+    Grantham, H.S., *Kuempel, C.D.*, Frazier, M., Venter, O., Wenger, A.
+    (2021). The global rarity of intact coastal regions. *Conservation
+    Biology*
+8.  *Kuempel, C.D.*, Simmons, B.A., Davey, M.(2022) Assessing he status
+    of existing and tentative marine natural World Heritage areas
+    reveals opportunities to better achieve World Heritage Convention
+    goals. *Journal of Environmental Management*
+9.  *Kuempel, C.D.*, Tulloch, V.J.D., Giffin, A.L., Simmons, B.A.,
+    Hagger, V., Phua, C. and Hoegh-Guldberg, O. (2021). Identifying
+    management opportunities to combat climate, land and marine threats
+    across less climate exposed coral reefs. *Conservation Biology*
+10. Roberson, L., Beyer, H.L., O'Hara, C., Watson, J.E.M., Dunn, Daniel,
+    Klein, C.J., Frazier, M., *Kuempel, C.D.*, Williams, B., Grantham,
+    H., Montgomery, J., Kark, S., Runting, R.K. (2021). Multinational
+    coordination required for conservation of at least 90% of marine
+    species. *Global Change Biology*
+11. *Kuempel, C.D.*, Chauvenet, A.L.M., Symes, W.S., Possingham, H.P.P.
+    (2021). Predicted protected area downsizing decreases habitat
+    representation across terrestrial ecoregions in the tropics and
+    subtropics. *Conservation Science and Practice*
+12. Suarez-Castro, A.F., Beyer, H.L., *Kuempel, C.D.*, Linke, S.,
+    Borelli, P., Hoegh-Guldberg, O. (2021). Global forest restoration
+    opportunities to foster coral reef conservation. *Global Change
+    Biology*
+13. Cottrell, R.S., Metian, M., Froehlich, H.E., Blanchard, J.L.,
+    Jacobsen, N.S., McIntyre, P.B., Nash, K.L., Williams, D.R., Bouwman,
+    L., Gephart, J.A., *Kuempel, C.D.*, Moran, D.D., Troell, M.,
+    Halpern, B.S. (2021) Time to rethink trophic levels in aquaculture
+    policy. *Reviews in Aquaculture*
+14. *Kuempel, C.D.*, Froehlich, H.E., Halpern, B.S. (2021) An informed
+    though experiment exploring the potential for a paradigm shift in
+    aquatic food production. *Ocean and Coastal Management*
+15. Adams, V.M., Dimitrova, N., Possingham, H.P., Allan, J.R., *Kuempel,
+    C.D.*, Peterson, N., Kaiye, A. Keako, M., Tulloch, V.J.D. (2021)
+    Scheduling incremental actions to build a comprehensive national
+    protected area netowrk for Papua New Guinea. *Conservation Science
+    and Practice*
+16. Chauvenet, A.L.M., Watson, J.E.M., Adams, V.M., Di Marco, M.,
+    Venter, O., Davis, K.J., Mapping, B., Klein, C.J., *Kuempel, C.D.*,
+    Possingham, H.P. (2020). To achieve big wins for conservation,
+    prioritise protection of ecoregions closest to meeting targets. *One
+    Earth*
+17. *Kuempel, C.D.*, Frazier, M., Nash, K.L., Sand Jacobsen, N.,
+    Williams, D.R., Blanchard, J.L., Cottrell, R.S., McIntyre, P.B.,
+    Moran, D., Bouwman, L., Froehlich, H.E., Gephart, J.A., Metian, M.,
+    Tobben, J., Halpern, B.S. (2020). Integrating life-cycle and impact
+    assessments to map food's cumulative environmental footprint. *One
+    Earth*
+18. Daigle, R., Metaxas, A., Balbar, A., McGowan, J., Treml, E.,
+    *Kuempel, C.D.*, Possingham, H., Beger, M. (2020). Operationalizing
+    ecological connectivity to identify spatial conservation priorities
+    with Marxan Connect. *Methods in Ecology and Evolution*
+19. *Kuempel, C.D.*, Chauvenet, A.L.M., Possingham, H.P., Adams, V.M.
+    (2020). Evidence-based guidelines for prioritizing investments to
+    meet international conservation objectives. *One Earth*
+20. Halpern, B.S., Blanchard, J.L., Bouwman, L., Cottrell, R.S.,
+    Froehlich, H.E., Gephart, J.A., Sand Jacobson, N.,*Kuempel, C.D.*,
+    McIntyre, P.B., Metian, M., Moran, D., Nash, K.L., Tobben, J.,
+    Williams, D.R. (2019). Opinion: Putting all food on the same table:
+    Achieving sustainable food systems requires full accounting.
+    *Proceedings of the National Academy of Sciences*
+21. *Kuempel, C.D.*, Jones, K.J., Watson J.E.M., Possingham, H.P.
+    (2019). Quantifying biases in placement of marine protected areas
+    relative to abatable biodiversity threats. *Conservation Biology*
+22. Jantke, K., *Kuempel, C.D.*, McGowan, J.M., Chauvenet, A.L.M.,
+    Possingham, H.P. (2018). Metrics for evaluating representation
+    target achievement in protected area networks. *Diversity and
+    Distributions*
+23. Jones, K.J., Klein, C.J., Halpern, B.S., Venter, O., Grantham, H.,
+    *Kuempel, C.D.*, Shumway, N., Friedlander, A.M., Possingham, H.P.,
+    Watson, J.E.M. (2018). The location and protection status of Earth's
+    diminishing marine wilderness. *Current Biology*
+24. *Kuempel, C.D.* Adams, V.M., Possingham H.P., Bode M. (2018) Bigger
+    or better: the relative benefits of protected area network expansion
+    and enforcement for the conservation of an exploited species.
+    *Conservation Letters*
+25. Campbell, J.E., Altieri, A.H., Johnston, L., *Kuempel, C.D.*,
+    Paperno, R., Paul, V.J., Duffy, J.E. (2018) Herbivore community
+    determines the magnitude and mechanism of nutrient effects on
+    subtropical and tropical seagrass. *Journal of Ecology*
+26. Chauvenet, A.L.M., *Kuempel C.D.*, McGowan J., Beger, M.,
+    Possingham, H.P. (2017). Methods for calculating Protection Equality
+    for conservation planning. *PloS one*
+27. *Kuempel, C.D.* and Altieri A. H. (2017). The emergent role of
+    small-bodied herbivores in pre-empting phase shifts on degraded
+    coral reefs. *Scientific Reports*
+28. *Kuempel, C.D.*, Chauvenet, A.L.M., and Possingham H.P. (2016).
+    Equitable representation of ecoregions is slowly improving despite
+    strategic planning shortfalls. *Conservation Letters*
+29. Nelson, H.R., *Kuempel, C.D.*, and Altieri, A.H. (2016). The
+    resilience of reef invertebrate biodiversity to coral mortality.
+    *Ecosphere*
+\newpage
 
 # Other Publications
-*Kuempel, C.D.* (2023) Sedimentation sifted out of global pollution priorities. *Science*
 
-*Kuempel, C.D.* (2023) Farmed salmon or chicken? Environmental footprint research can guide eco-conscious consumers. *The Conversation*
+*Kuempel, C.D.* (2023) Sedimentation sifted out of global pollution
+priorities. *Science*
 
-Wakwella, A., Wenger, A., *Kuempel, C.D.*, et al. (2022) Managing Watersheds for Coral Reefs and Public Health. A Vibrant Oceans Initiative Whitepaper.
+Wakwella, A., Wenger, A., *Kuempel, C.D.*, et al. (2022) Managing
+Watersheds for Coral Reefs and Public Health. A Vibrant Oceans
+Initiative Whitepaper.
 
-*Kuempel C.D.* and Alyssa Giffin (2021) Resilient reefs, resilient communities: how can we get there? *Catchment to Coast*
 
-Jones, K., Friedlander, A. Halpern, B., *Kuempel, C.D.*, Klein, C. Grantham, H., Possingham, H., Watson, J., Shumway, N., Venter, O. (2018) New map shows that only 13% of the oceans are still truly wild. *The Conversation*
+*Kuempel C.D.*, McGowan J., Estradivari, Handaynai C., Daniel D.,
+Possingham H., Ahmadia, G. (2017) Conservation priority gaps in the
+Sunda Banda Seascape, Indonesia
 
-*Kuempel C.D.*, McGowan J., Estradivari, Handaynai C., Daniel D., Possingham H., Ahmadia, G. (2017) Conservation priority gaps in the Sunda Banda Seascape, Indonesia
 
-*Kuempel C.D.*, Di Marco M., Watson J., Possingham H. (2017). Achieving the targets of global conventions. *Decision Point* 
+# Select general audience publications (links provided)
 
-# Select presentations
-\vspace{-3mm}
-*\* oral presentation, $\dagger$ invited presentation*
+1. *Kuempel, C.D.* (2023) Farmed salmon or chicken? Environmental footprint
+research can guide eco-conscious consumers. [The Conversation](https://theconversation.com/farmed-salmon-or-chicken-environmental-footprint-research-can-guide-eco-conscious-consumers-199773)
 
-**Kuempel C** (2021) Informing management across less-climate exposed coral reefs. *International Congress on Conservation Biology*, on-line*
+2. Almaraz, M. and *Kuempel, C.D.* (2022) The impact of excessive protein consumption on human wastewater nitrogen loading of US waters. [Global Water Forum](https://globalwaterforum.org/2022/08/04/the-impact-of-excessive-protein-consumption-on-human-wastewater-nitrogen-loading-of-us-waters/)
 
-**Kuempel C**$\dagger$ (2020) The basics of protected area design and evaluation. *University of Queensland Twilight Talk Series*, on-line*
+3. *Kuempel, C.D.* and Alyssa Giffin (2021) Resilient reefs, resilient
+communities: how can we get there? [Catchment to Coast](https://catchmenttocoast.org/2021/12/14/resilient-reefs-and-resilient-communities-how-can-we-get-there/)
 
-**Kuempel C**$\dagger$ (Nov. 2020) Getting Started with GitHub in R. *Pete Mumby lab group meeting*, UQ*
+4. Jones, K., Friedlander, A. Halpern, B., *Kuempel, C.D.*, Klein, C.
+Grantham, H., Possingham, H., Watson, J., Shumway, N., Venter, O. (2018)
+New map shows that only 13% of the oceans are still truly wild. [The
+Conversation](https://theconversation.com/new-map-shows-that-only-13-of-the-oceans-are-still-truly-wild-100820#:~:text=Our%20research%2C%20published%20in%20the,human%20activities%20are%20most%20intense.)
 
-**Kuempel C**$\dagger$ (Oct. 2020) Workflows and best practices for collaborative coding. *RLadies Brisbane*, online*
+5. Southern Coral Sea [Reef Life Survey blog](https://reeflifesurvey.com/southern-coral-sea/)
 
-**Kuempel C**$\dagger$ (Sept. 2020) Getting Started with GitHub in R. *RLadies Brisbane*, online*
 
-**Kuempel C**$\dagger$ (2020) Coral Reef Rescue Initiative: A climate-centric approach for management coral reefs for nature and people. *Interanational Marine Conservation Congress*, on-line*
+# Select media interviews and engagement (links provided)
 
-**Kuempel C**, Adams V, Possingham H, Bode M (2018) Bigger or better: the relative benefits of MPA expansion and enforcement. *Society for Conservation Biology Oceania Conference*, Wellington, New Zealand*
+1. Which food is better for the planet? [The Washington Post](https://www.washingtonpost.com/climate-environment/interactive/2023/food-impact-climate-water-wildlife/)
 
-**Kuempel C**, Jones K, Watson J.E., Possingham H (2018) Global marine protected area establishment largely avoids abatable threats to biodiversity. *International Marine Conservation Congress*, Kuching, Malaysia*
+2. Food for thought: the carbon footprint of salmon and chicken farming mostly stems from feed. [The Guardian](https://www.theguardian.com/environment/2023/feb/13/food-for-thought-carbon-footprint-of-salmon-and-chicken-farming-mostly-stems-from-feed-study-suggests) 
+
+3. To lower food emissions consider what your dinner ate. [Popular Science](https://content.isentia.io/?url=https://www.popsci.com/environment/carbon-emissions-meat-livestock/&key=f50e0409ae20644ddfc8e4da71ba50ad&ver=1&mid=920217296&uid=154795)
+
+4. Farmed chicken and salmon have a global footprint. [Nature](https://www.nature.com/articles/d41586-023-00414-5) 
+
+5. Coming out or not, earthquake aid, and what's the most eco-friendly meat? [Triple J Hack](https://www.abc.net.au/triplej/programs/hack/hack/101960520)
+
+6. Female scientists encouraging children to embrace science [Courier Mail](https://www.couriermail.com.au/news/queensland/bundaberg/female-scientists-encouraging-children-to-embrace-science/news-story/a76c60645f3438df037d12d2f64da262)
+
 
 # Teaching Experience
 
-I currently convene 3804ENV Marine Ecosystem Modelling and 3606ENV Conservation Biology at Griffith University and teach into 3033ESC Environmental Data Analytics.
+I currently convene 3804ENV Marine Ecosystem Modelling and 3606ENV
+Conservation Biology at Griffith University and teach into 3033ESC
+Environmental Data Analytics.
 
 # Supervision
 
-- Maria Christofidis, PhD student (2023-present), Co-primary supervisor: Assessing and planning for climate change impacts to aquaculture to inform resilient and sustainable expansion
+-   Maria Christofidis, PhD student (2023-present), Co-primary
+    supervisor: Assessing and planning for climate change impacts to
+    aquaculture to inform resilient and sustainable expansion
+    
+-   Alana McPherson, Honours student (2023-present), Co-primary supervisor: Evaluating marine protected areas
 
-- Sophie Petrie, Environmental Science Capstone Project, primary supervisor. The potential impacts of land-based aquaculture on threatened species in Queensland.
+-   Sophie Petrie, Environmental Science Capstone Project (2023-present), primary
+    supervisor. The potential impacts of land-based aquaculture on
+    threatened species in Queensland.
 
-- Emma Arnett, Master's Student (2020-2021), Co-primary supervisor: Quantifying redundant global fisheries trade
+-   Emma Arnett, Master's Student (2020-2021), Co-primary supervisor:
+    Quantifying redundant global fisheries trade
 
-- Ella Sinclair, Volunteer (2020): Primary supervisor for conducting literature review of monitoring and evluation indicators for focal WWF Coral Reef Rescue Initiative countries
-
+-   Ella Sinclair, Volunteer (2020): Primary supervisor for conducting
+    literature review of monitoring and evluation indicators for focal
+    WWF Coral Reef Rescue Initiative countries
