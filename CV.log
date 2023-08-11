@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.8)  14 JUL 2022 08:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.7.8)  11 AUG 2023 10:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -421,30 +421,25 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 113.
 [1
 
-{/Users/s2995128/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
-Overfull \hbox (73.93465pt too wide) in paragraph at lines 681--684
-\T1/pplj/m/it/10 ment to Coast [][]$\T1/pplj/m/n/10 https : / / catchmenttocoast . org / 2021 / 12 / 14 / resilient-[]reefs-[]and-[]resilient-[]communities-[]how-[]can-[]we-[]get-[]there/$[][] 
- []
-
-[4] [5] [6] [7] 
+{/Users/s2995128/Library/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4] [5] [6] [7] [8] 
 AED: lastpage setting LastPage
-[8] (./CV.aux)
+[9] [10] (./CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: 48A1E34E39D85527EAA3CFE98FDB6A02;1750.
+(rerunfilecheck)             Checksum: 14FF0EC1AE40E358F091276088F5FE24;1949.
  ) 
 Here is how much of TeX's memory you used:
- 12529 strings out of 479984
- 192574 string characters out of 5887001
- 503159 words of memory out of 5000000
- 30473 multiletter control sequences out of 15000+600000
+ 12547 strings out of 479984
+ 192735 string characters out of 5887001
+ 503264 words of memory out of 5000000
+ 30477 multiletter control sequences out of 15000+600000
  505589 words of font info for 85 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 60i,11n,67p,1191b,571s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,12n,67p,1191b,571s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/s2995128/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc} </Users/s2995128/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk>{/Users/s2995128/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</Users/s2995128/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/s2995128/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/s2995128/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></Users/s2995128/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/s2995128/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></Users/s2995128/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/s2995128/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV.pdf (8 pages, 137694 bytes).
+Output written on CV.pdf (10 pages, 145006 bytes).
 PDF statistics:
- 226 PDF objects out of 1000 (max. 8388607)
- 183 compressed objects within 2 object streams
- 64 named destinations out of 1000 (max. 500000)
- 113 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 273 PDF objects out of 1000 (max. 8388607)
+ 227 compressed objects within 3 object streams
+ 78 named destinations out of 1000 (max. 500000)
+ 129 words of extra memory for PDF output out of 10000 (max. 10000000)
 
