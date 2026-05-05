@@ -28,7 +28,7 @@ urlcolor: blue
 
 # Education
 
-*The University of Queensland*, St. Lucia, QLD, Australia \hfill Nov. 2014- Aug. 2018
+*The University of Queensland*, St. Lucia, QLD, Australia \hfill Nov. 2014- Sept. 2018
 
 > -   PhD Conservation Science
 > -   Thesis title: Evaluating trade-offs between quantitative and qualitative protected area objectives
@@ -97,6 +97,10 @@ urlcolor: blue
 
 # Grants
 
+Future Earth Australia Creating Opportunities Grant ($5,000) \hfill (2024)
+
+Future Earth Australia Seizing Opportunities Grant ($1,000) \hfill (2024)
+
 Griffith Advancing Women’s Research Success Grant ($4,601.73) \hfill (2023)
 
 Blue Economy Cooperative Research Centre Marine Spatial Planning for a Blue Economy (AUD$3.6M) \hfill (2022)
@@ -139,21 +143,28 @@ Taylor and Francis University of Queensland Library Excellence Award in Research
 
 # Peer-Reviewed Publications
 
-<!-- > 22. Froehlich, H.E., Afflerbach, J.C., Williams, D.R., *Kuempel, C.D.*, O'Hara, C., Halpern, B.S. (in review). Integrating aquaculture into sustainable fisheries management. *Proceedings of the National Academy of Sciences* -->
-
 <!-- > 28. Davey, M., *Kuempel, C.D.*, Klein, C.J., Roeflsema, C, Possingham, H.P.(in review). A review of coral reef condition monitoring indicators and their application in spatial conservation planning. *Conservation Biology* -->
 
-> 35.  *Kuempel, C.D.* and Suarez-Castro, A.F. (in review). Clear as mud: leveraging the Global Biodiversity Framework for transboundary watershed management. *PNAS*
+> 39.  Vozzo, M., Christofidis, M. Griffiths, L., Kelly, R., Manion, M.L., Barmand, S., Bolin, J., Fuenzalida-Miralles, P., Harris, M., Issell, A., *Kuempel, C.D.*, Diaz, M., Murunga, M., Palmer, S., Schaefer, N., Simpson, J. (2025). Advancing ocean sustainability through better science integration: perspectives of Early Career Ocean Professionals *Front. in Ocean Sust.*
 
-> 34.  *Kuempel, C.D.*, Thomas, J., Wenger, A., Jupiter, S.D., Suarez-Castro, A.F., Nasim, N., Klein, C.J., Hoegh-Guldberg, O. (submitted). Assessing opportunities for improved sanitation to support coral reef conservation. *Environmental Pollution*
+> 38.  *Kuempel, C.D.*, Stockbridge, J., O'Neill, T., Griffiths, L., Frid, C. Brown, C. (2025). Frameworks and best practices for cumulative impact accounting in offshore energy development. *Marine Policy*
 
-> 33.  *Kuempel, C.D.*, Arnett, E., Klein, C.J. (in review). Quantifying global redundant fisheries trade to improve seafood sustainability *PlosOne*
+> 37.  Fleury, A.G., O'Hara, C., Butt, N., Restrepo, J., Halpern, B.S., Klein, C.J., *Kuempel, C.D.*, Gaynor, K.M., Bentley, L., Richardson, A., Dunn, D. (2024). Spatial and life history variation in a trait-based species vulnerability and impact model. *PlosOne*
 
-> 32. Adams, V., Chauvenet, A.L.M., Stoudmann, N., Gurney, G.G., Brockington, D., *Kuempel, C.D.* (accepted). Multiple-use protected areas are critical to equitable and effective conservation. *One Earth*
+> 36.  *Kuempel, C.D.* and Suarez-Castro, A.F. (2024). The Global Biodiversity Framework can be better leveraged to manage transboundary watersheds *PNAS*
 
-> 31. Froehlich, H., Montgomery, J.C., Williams, D.R., O'Hara, C., *Kuempel, C.D.*, Halpern, B.S. (in press). Life history and farming scenarios of marine aquaculture help reduce wild lmarine fishing pressure. *Fish and Fisheries*
+> 35.  *Kuempel, C.D.*, Arnett, E., Klein, C.J. (2024). Quantifying global redundant fisheries trade to improve seafood sustainability *PlosOne*
 
-> 30. Halpern, B.S., Frazier, M.,Rayner, P.E., Clawson, S.G., Blanchard, J.L., Cottrell, R.S., Froehlich, H.E., Gephart, J.A., Jacobsen, N.S., *Kuempel, C.D.*, M., Moran, D., Nash, K.L., Williams, D.R. (accepted). Matters Arising - Diving deeper on fisheries footprint metrics. *Nature Sustainability*
+> 34.  *Kuempel, C.D.*, Thomas, J., Wenger, A., Jupiter, S.D., Suarez-Castro, A.F., Nasim, N., Klein, C.J., Hoegh-Guldberg, O. (2024). Assessing opportunities for improved sanitation to support coral reef conservation. *Environmental Pollution*
+
+> 33. Vella, T., Roberson, L., *Kuempel, C.D.*, Klein, C (2023). Quantifying the accessibility of sustainable seafood in South East Queensland, Australia. *Marine and Freshwater Research*
+
+> 32. Adams, V., Chauvenet, A.L.M., Stoudmann, N., Gurney, G.G., Brockington, D., *Kuempel, C.D.* (2023). Multiple-use protected areas are critical to equitable and effective conservation. *One Earth*
+
+> 31. Halpern, B.S., Frazier, M.,Rayner, P.E., Clawson, S.G., Blanchard, J.L., Cottrell, R.S., Froehlich, H.E., Gephart, J.A., Jacobsen, N.S., *Kuempel, C.D.*, M., Moran, D., Nash, K.L., Williams, D.R. (2023). Matters Arising - Diving deeper into fisheries disturbance. *Nature Sustainability*
+
+> 30. Froehlich, H., Montgomery, J.C., Williams, D.R., O'Hara, C., *Kuempel, C.D.*, Halpern, B.S. (2023). Life history and farming scenarios of marine aquaculture help reduce wild lmarine fishing pressure. *Fish and Fisheries*
+
 
 > 29. *Kuempel, C.D.*, Frazier, M., Verstaen, J., Rayner, P.E., Blanchard, J.L., Bouwman, L., Cottrell, R.S., Froehlich, H.E., Gephart, J.A., Jacobsen, N.S., McIntyre, P.B., Metian, M., Moran, D., Nash, K.L., Tobben, J., Williams, D.R., Halpern, B.S. (2023). Feed drives land-sea overlap of the global cumulative environmental pressure of farmed chicken and salmon. *Current Biology*
 
@@ -165,7 +176,7 @@ Taylor and Francis University of Queensland Library Excellence Award in Research
 
 > 25. Almaraz, M., *Kuempel, C.D.*, Salter, A., Houlton, B.Z., Halpern, B.S. (2022). The impact of excessive protein consumption on human wastewater nitrogen loading of US waters. *Frontiers in Ecology and the Environment*
 
-> 24. Clawson, S.G., Blasco, G., *Kuempel, C.D.*, Froehlich, H.E., Cottrell, R.S., Metian, M., Tobben, J., Williams, D.R., Nash, K.L., Frazier, M., Verstaen, J., Halpern, B.S. (2022). Mapping the spatial distribution of global mariculture production. *Aquaculture*
+> 24. Clawson, S.G.,*Kuempel, C.D.*, Blasco, G., Froehlich, H.E., Cottrell, R.S., Metian, M., Tobben, J., Williams, D.R., Nash, K.L., Frazier, M., Verstaen, J., Halpern, B.S. (2022). Mapping the spatial distribution of global mariculture production. *Aquaculture*
 
 > 23. Williams, B.A., Watson, J.E.M., Beyer, H.L., Klein, C.J., Montgomery, J., Runting, R.K., Roberson, L.A., Halpern, B.S., Grantham, H.S., *Kuempel, C.D.*, Frazier, M., Venter, O., Wenger, A. (2021). The global rarity of intact coastal regions. *Conservation Biology*
 
@@ -259,7 +270,7 @@ Female scientists encouraging children to embrace science [Courier Mail](https:/
 
 *\* oral presentation,* $\dagger$ invited presentation
 
-**Kuempel C**$\dagger$ (2023) Putting Australian Aquaculture on the Map *Australian Marine Sciences Association, Brisbane, Australia*
+**Kuempel C**$\dagger$ (2023) Putting Australian Aquaculture on the Map *Australian Marine Sciences Association, Gold Coast, Australia*
 
 **Kuempel C**$\dagger$ (2022) Mapping a path for conservation in a developing world. *Griffith University, Brisbane, Australia*
 

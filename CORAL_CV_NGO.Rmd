@@ -1,0 +1,214 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: formatting.tex
+geometry: margin=1in
+title: "CV"
+author: Dr Caitlin D. Kuempel
+orcid: "orcid.org/0000-0003-1609-9706"
+jobtitle: "Senior lecturer · Griffith University, Brisbane, Australia"
+address: "Griffith University, 170 Kessels Rd, Nathan QLD, 4111"
+fontawesome: yes
+email: c.kuempel@griffith.edu.au
+github: cdkuempel
+#phone: "+1 555 5555"
+#web: 'https://cdkuempel.github.io/website/'
+updated: no
+keywords: RMarkdown, academic CV, template
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+# Professional Highlights
+
+> 1. Proven conservation program leader with over a decade of experience
+> delivering applied research and management partnerships across the
+> Pacific and Australia, focused on marine spatial planning, coral reef
+> conservation, watershed management, and sustainable development.
+
+> 2. Track record in project design and delivery: secured and managed over
+> \$1.2 million in project funding in the past two years, leading
+> multi-institutional collaborations with governments, NGOs, and
+> industry.
+
+> 3. Strong implementation and coordination experience: served as
+> Monitoring and Data Management Lead for WWF’s Coral Reef Rescue
+> Initiative and currently lead the Cumulative Impacts Workstream for
+> the Blue Economy Cooperative Research Centre Marine Spatial Planning
+> project.
+
+> 4. Skilled communicator and collaborator: experienced in engaging diverse
+> stakeholders—from local communities to global NGOs—to co-develop
+> data-driven conservation solutions.
+
+> 5. Capacity building and leadership: trained over 300 professionals and
+> students in R programming and decision-support tools such as Marxan;
+> mentor to early-career scientists and conservation practitioners.
+
+> 6. Recognised communicator and advocate: research has been featured in
+> The Guardian, The Washington Post, Time magazine, and The Conversation
+> (\>200,000 reads); finalist in national science communication
+> competitions and Queensland Women in STEM Award 2025.
+
+> 7. Committed to inclusive leadership and organisational excellence: lead
+> of the Sustainable Seas Research group, active participant in
+> Griffith’s Women in Leadership Program and representative on the
+> School’s Early Career Researcher Committee.
+
+# Core competencies
+
+Program design, delivery, and management · Partnership development · Donor and grant management · Monitoring and evaluation · Marine spatial planning · Climate and biodiversity integration · Ridge-to-reef management · Written and Oral communication to diverse audiences · Stakeholder engagement and capacity building · Strategic planning
+
+# Education
+
+*PhD Conservation Science*, The University of Queensland, St. Lucia,
+QLD, Australia \hfill Sept. 2018
+
+> Thesis: Evaluating trade-offs between quantitative and qualitative
+> protected area objectives Supervisors: Prof. Hugh Possingham, Prof.
+> Catherine Lovelock and Dr. Alienor Chauvenet Dean's Award for
+> Outstanding HDR thesis (ranked within top 10% in field by examiners).
+
+*M.S. Marine Biology* Northeastern University, Nahant, MA \hfill Dec.
+2013
+
+> Coral Reef Ecology (GPA 4.0/4.0), Supervisor: Dr Andrew ALtieri
+
+*BSc Environmental Science (Honours), BA French*, University of Iowa,
+Iowa City, IA \hfill May 2012
+
+> Honors in coral morphometrics, Certificate in Sustainability
+
+# Relevant professional Experience
+
+*Senior Lecturer, Marine Ecosystem Modelling, Griffith University,
+Brisbane, Australia* \hfill June 2022-present
+
+> Lead the Sustainable Seas Research group, managing a portfolio of applied projects (<AUD$1.2 million) with NGOs, government and industry
+
+*Monitoring and Data Management Lead, WWF Coral Reef Rescue Initiative* \hfill Feb. 2020-May 2022
+
+> Led design and rollout of monitoring systems across 7 countries and 8 partners to inform climate-resilient reef management
+> Contributed to successful Global Environmental Facility (US$7M) proposal to support  project implementation
+
+*Post-doctoral Fellow, NCEAS, Santa Barbara, CA* \hfill Sept. 2018-Dec.
+2019
+
+> Quantified, compared and mapped the production and environmental
+> impacts of all major food systems as part of a collaborative working
+> group
+
+*Conservation Planning Consultant* \hfill 2018-present
+
+> I have served as a consultant in conservation planning for a variety of organisations including the IUCN, World Wildlife Fund (Fiji and Indonesia), The Nature Conservancy (Hawaii), Wildlife Conservation Society (Fiji) UNEP and Australia Awards (Papua New Guinea), among others.
+
+# Select Conservation Projects
+
+> 6. Australia Awards Nature-based solutions and climate change short-course (2025): Developed a 2 week short course for 30 Papua New Guinean nations on nature-based solutiosn and climate change, delivered in country.
+
+> 5. Fiji Great Sea Reef Modelling (2025): Developed sediment run-off models to guide reef protection under climate stress as part of a Green Climate Fund proposal
+
+> 4. SPREP Kiwa Initiative (2024): Led micro-credential development for Pacific nature-based solutions training program.
+
+> 3. Blue Economy Cooperative Research Centre Marine Spatial Planning Framework (2023–2025): Co-led national guidance on cumulative impact assessment and cross-sector coordination for sustainable ocean use in Australia.
+
+> 2. Watersheds Interventiosn for Systems Health (2022-2023): Led ridge-to-reef  modelling of nitrogen pollution from sanitation to inform Wildlife Conservation Society program, which was delivered to the Fijian government to inform decision making
+
+> 1. WWF Coral Reef Rescue Initiative (2020–2022): Designed monitoring systems for reef health and community resilience across 7 countries and 40 partners; outputs informed Global Coral Reef Rescue strategy including a successful Global Environment Facility bid.
+
+# Media and Science Communication
+
+I have over 10 years experience in science communiation for diverse audiences.
+
+I have 46 peer-reviewed publications (h-index 22), 17 as lead author,
+\>1700 citations. International collaboration on \~85% of publications.
+See [Google scholar](https://scholar.google.com/citations?user=nE8IeT4AAAAJ&hl=en)
+or [ORCID](http://orcid.org/0000-0003-1609-9706)
+
+As an example of reaching a broad non-scientific audience, my written
+work for The Conversation blog (theconversation.com) has had \>200,000
+readers.
+
+Queensland prawn areas at risk of inundation by rising seas this century
+[The
+Conversation](https://theconversation.com/98-of-queensland-prawn-areas-at-risk-of-inundation-by-rising-seas-this-century-253330#:~:text=About%2098%25%20of%20areas%20approved,them%20particularly%20vulnerable%20to%20inundation)
+
+Which food is better for the planet? [The Washington
+Post](https://www.washingtonpost.com/climate-environment/interactive/2023/food-impact-climate-water-wildlife/)
+
+Food for thought: the carbon footprint of salmon and chicken farming
+mostly stems from feed. [The
+Guardian](https://www.theguardian.com/environment/2023/feb/13/food-for-thought-carbon-footprint-of-salmon-and-chicken-farming-mostly-stems-from-feed-study-suggests)
+
+To lower food emissions consider what your dinner ate. [Popular
+Science](https://content.isentia.io/?url=https://www.popsci.com/environment/carbon-emissions-meat-livestock/&key=f50e0409ae20644ddfc8e4da71ba50ad&ver=1&mid=920217296&uid=154795)
+
+Coming out or not, earthquake aid, and what's the most eco-friendly
+meat? [Triple J
+Hack](https://www.abc.net.au/triplej/programs/hack/hack/101960520)
+
+# Other publications, reports and white papers
+    
+> 4. Griffiths, Breakey, Bossi, Cossu, Dunstan, Hasan,**Kuempel, C.D.**, Lacharite,
+>   Marsh, Skinsley, Smart, Smith, Stockbridge, Woolley, Frid (2025). Implementing an
+>   Australian Marine Spatial Planning Framework. *Blue Economy Cooperative Research
+    Centre*
+
+> 3. Stockbridge and **Kuempel, C.D.** (2024). Evaluation of potential for interaction
+>   and/or conflict among ocean users and the environment in offshore waters in
+>   Australia *Blue Economy Cooperative Research Centre*
+
+> 2. **Kuempel, C.D.** (2023) Sedimentation sifted out of global pollution priorities.
+>    *Science* (IF = 54.5)
+
+> 1. Wenger, Jaurez, Thomas, Amaya, Corbin, Edmond, Falinski, Hill, Jenkins, Jupiter,
+>   **Kuempel, C.D.**, Lamb, Nalley, Omwenga, Oza (2023). A guide for integrated
+>   conservation and sanitation programs and approaches.*Wildlife Conservation Society*
+
+
+# Awards
+
+Queensland Women in STEM Award Finalist (1 of 14 finalists) \hfill (2025)
+
+Foundation for the WA Museum Fame Lab Science Communicaiton Semi-finalist: To lower your
+environmental footprint consider what your dinner ate \hfill (2023)
+
+University of Queensland Faculty of Science Awards Rising Star -
+Academic category Finalist \hfill (Dec. 2020)
+
+APEC Science Prize for Innovation, Research and Education Award -
+shortlisted for Australian nominee (2020)
+
+# Leadership and Outreach Roles
+
+New Zealand Endeavor Fund Offshore wind working group - international advisory group
+
+International Congress on Conservation Biology 2025 *Steering Committee
+Member*
+
+School of Environment and Science *Early Career Representative*
+(2024-present)
+
+Griffith Women in Leadership 2023 Cohort
+
+Centre for Biodiversity and Conservation Science Management Committee
+*Early Career Researcher Education Lead* (2021-Present)
+
+Soapbox Science Brisbane co-organiser (2024-present) - community
+engagement to promote women in STEM during National Science Week
+
+Certified Software Carpentries Instructor (2020-present) - specialising
+in introductory to advanced R programming skills and version control
+(e.g., GitHub).
+
+RLadies Brisbane Oraganiser - promoting women in programming (2020-2024)
+
+Marxan Spatial Planning Instructor (2017-current) - successful workshops
+in Australia, Indonesia, Colombia, and online
+

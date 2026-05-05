@@ -24,15 +24,40 @@ editor_options:
     wrap: 72
 ---
 
+# Career Highlights
+
+I have an h-index of 21, with 43 peer-reviewed papers (17 as lead
+author). Twelve are in the top 10% most cited publications worldwide,
+including 28 publications in the top 10% journals (e.g., Nature
+Sustainability, PNAS, Current Biology). Over 85% of my publications
+involve international collaboration. In the past 2 years, I have
+attracted project funding of \>\$1.2 million. I collaborate frequently
+with industry on applied conservation challenges; I was the Monitoring
+and Data Management lead for the World Wildlife Fund's Coral Reef Rescue
+Initiative and currently lead the cumulative impacts workstream of the
+Blue Economy Cooperative Research Centre Marine Spatial Planning
+project. I teach into five courses at Griffith, and convene two (\~140
+students), with consistently high student feedback scores (\>4 out of
+5). I am passionate about mentoring and science communication. I
+currently supervise a post-doctoral fellow and three HDR candidates. I
+am co-organising Brisbane's Soapbox Science event for National Science
+Weeek and sit on the steering committee for the International Congress
+of Conservation Biology to be held in Brisbane in 2025. I am well-known
+for teaching R programming (\>400 trained) and Marxan decision support
+tool (\>200 trained). I have \>200,000 reads in The Conversation, have
+been featured in general media such as live interviews on Triple J's
+Hack program and interviews in The Guardian, and was a semi-finalist in
+the FameLab science communication competition. I serve as an Early
+Career Representative for the School of Environment and Science and
+participated in Griffith's Women in Leadership program.
+
 # Education
 
 *The University of Queensland*, PhD Conservation Science, St. Lucia,
 QLD, Australia \hfill Nov. 2014- Aug. 2018
 
-
 *Northeastern University*, M.S. Marine Biology, Nahant, MA \hfill Dec.
 2013
-
 
 *University of Iowa*, B.S. Environmental Biosience (with honors), B.A.
 French, Certificate in Sustainability, Honors in coral morphometrics,
@@ -43,35 +68,21 @@ Iowa City, IA \hfill May 2012
 Lecturer, Marine Ecosystem Modelling, Griffith University, Nathan,
 Australia \hfill July 2022-present
 
-Post-doctoral Fellow, ARC Centre of Excellence for Coral Reef Studies,UQ, Brisbane, Australia \hfill Feb. 2020-June 2022
+Post-doctoral Fellow, ARC Centre of Excellence for Coral Reef
+Studies,UQ, Brisbane, Australia \hfill Feb. 2020-June 2022
 
 Post-doctoral Fellow, NCEAS, Santa Barbara, CA \hfill Sept. 2018-Dec.
 2019
-
-Conservation Planning Consultant, IUCN and The University of
-Queensland \hfill July-Aug.2018
-
-Volunteer Researcher: University of Queensland and WWF Indonesia
-\hfill Sept.-Oct. 2016
-
-Research Assistant: Smithsonian Tropical Research Institute, Bocas del Toro, Panama \hfill April-Oct. 2014
-
-Conservation Intern: Central Caribbean Marine Institute, Little Cayman, Cayman Islands \hfill Jan.-April 2014
-
-Short-Term Fellow: Smithsonian Tropical Research Institute, Bocas del
-Toro, Panama \hfill June-Dec. 2013
-
-Research Assistant: University of Iowa Department of Geoscience, Iowa
-City, IA \hfill May 2009-2010
 
 # Positions of leadership
 
 ## **Academic**
 
 -   Australian Rivers Institute Early Career Researcher representative
-    (2023- present)
+    (2023) 
 -   Griffith Coding Club co-founder and organiser
--   World Wildlife Fund Coral Reef Rescue Initiative Monitoring and Data Management Lead (2020-2022)
+-   World Wildlife Fund Coral Reef Rescue Initiative Monitoring and Data
+    Management Lead (2020-2022)
 -   Centre for Biodiversity and Conservation Science Management
     Committee (2021-2022)
 -   NCEAS Diversity Team representative (2018-2019)
@@ -83,8 +94,9 @@ City, IA \hfill May 2009-2010
 
 ## **Community**
 
--   RLadies Brisbane Organising Comittee (2020-present)
--   Software Carpentries instructor
+-   Soapbox Science Brisbane co-organiser (2024-present)
+-   RLadies Brisbane Organising Comittee (2020-2023)
+-   Software Carpentries instructor (2020-present)
 -   UNEP MPA Toolbox and Learning Platform (2021)
 -   STEM engagement activities
     -   Brisbane Girls Grammar School Year 9 Geography incursion (2023)
@@ -101,42 +113,61 @@ Society for Reef Studies
 
 # Academic distinctions, prizes, and awards
 
-
 -   University of Queensland Faculty of Science Awards Rising Star -
     Academic category Finalist \hfill (Dec. 2020)
 -   APEC Science Prize for Innovation, Research and Education Award -
     shortlisted for Australian nominee (2020)
 -   University of Queensland Dean's Award for Outstanding HDR Theses
-    (2018)
+    (2018) 
 
-# Top 5 publications (h-index 13, Google Scholar) - Griffith Expert, ORCID, Google Scholar
+# Select publications (h-index 22, Google Scholar) [Griffith Expert](https://experts.griffith.edu.au/37253-caitie-kuempel), [Google Scholar](https://scholar.google.com.au/citations?user=nE8IeT4AAAAJ&hl=en)
 
-1.  *Kuempel, C.D.*, Frazier, M., Verstaen, J., Rayner, P.E., Blanchard,
+I have a total of 49 publications (17 first author, 3 last author)
+
+1.  Metcher, S., Stockbridge, J., **Kuempel, C.D.** (in review). Integrating     sustainable   bivalve aquaculture into water quality strategies to mitigate anthropogenic nitrogen   loads   *Marine Pollution Bulletin*
+2. **Kuempel, C.D.**, Christofidis, M., Fuller, R., Bush, R.,
+     Garnett, S.T., Jackson, M.V. (2025). Half of coastal
+     aquaculture sites in Queensland are in close proximity to
+     shorebird habitats. *Ocean and Coastal Management*
+
+3. Christofidis, M., Lyons, M., **Kuempel, C.D.** (2025). One-third
+     of Australia's coastal terrestrial aquaculture at risk from sea
+     level rise. *Aquaculture Science and Management*
+
+4. Stockbridge, J.S., Brown, C.J., **Kuempel, C.D.** (2025). Mapping the global co-location potential of offshore
+     wind energy and aquaculture production. *Ocean and Coastal
+     Management* (IF = 4.3)
+
+5. **Kuempel, C.D.**, Stockbridge, J.S., O'Neill, T., Griffiths, L.,
+     Frid,C.L.J., Brown, C.J. (2025). Frameworks and best practices for
+     cumulative impact accounting in offshore wind energy development.
+     *Marine Policy* (IF = 3.8)
+
+6.  *Kuempel, C.D.* and Suarez-Castro, A.F. (2024). The Global
+    Biodiversity Framework can be leveraged to better manage
+    transboundary watersheds. *PNAS*
+7.  *Kuempel, C.D.*, Frazier, M., Verstaen, J., Rayner, P.E., Blanchard,
     J.L., Bouwman, L., Cottrell, R.S., Froehlich, H.E., Gephart, J.A.,
     Jacobsen, N.S., McIntyre, P.B., Metian, M., Moran, D., Nash, K.L.,
     Tobben, J., Williams, D.R., Halpern, B.S. (2023). Environmental
     footprints of farmed chicken and salmon bridge the land and sea.
     *Current Biology*
-2.  Halpern, B.S., Frazier, M., Verstaen, J., Rayner, P.E., Clawson,
+8.  Halpern, B.S., Frazier, M., Verstaen, J., Rayner, P.E., Clawson,
     S.G., Blanchard, J.L., Cottrell, R.S., Froehlich, H.E., Gephart,
     J.A., Jacobsen, N.S., *Kuempel, C.D.*, McIntyre, P.B., Metian, M.,
     Moran, D., Nash, K.L., Tobben, J., Williams, D.R. (2022). The
     environmental footprint of global food production. *Nature
     Sustainability*
-3.  *Kuempel, C.D.*, Frazier, M., Nash, K.L., Sand Jacobsen, N.,
+9.  *Kuempel, C.D.*, Frazier, M., Nash, K.L., Sand Jacobsen, N.,
     Williams, D.R., Blanchard, J.L., Cottrell, R.S., McIntyre, P.B.,
     Moran, D., Bouwman, L., Froehlich, H.E., Gephart, J.A., Metian, M.,
     Tobben, J., Halpern, B.S. (2020). Integrating life-cycle and impact
     assessments to map food's cumulative environmental footprint. *One
-    Earth* (12 citations)
-4.  *Kuempel, C.D.* Adams, V.M., Possingham H.P., Bode M. (2018) Bigger
+    Earth*
+10.  *Kuempel, C.D.* Adams, V.M., Possingham H.P., Bode M. (2018) Bigger
     or better: the relative benefits of protected area network expansion
     and enforcement for the conservation of an exploited species.
     *Conservation Letters* (39 citations)
-5.  Jones, K.J., Klein, C.J., Halpern, B.S., Venter, O., Grantham, H.,
-    *Kuempel, C.D.*, Shumway, N., Friedlander, A.M., Possingham, H.P.,
-    Watson, J.E.M. (2018). The location and protection status of Earth's
-    diminishing marine wilderness. *Current Biology* (226 citations)
 
 # Other Publications
 
@@ -147,85 +178,125 @@ Wakwella, A., Wenger, A., *Kuempel, C.D.*, et al. (2022) Managing
 Watersheds for Coral Reefs and Public Health. A Vibrant Oceans
 Initiative Whitepaper.
 
-
-*Kuempel C.D.*, McGowan J., Estradivari, Handaynai C., Daniel D.,
-Possingham H., Ahmadia, G. (2017) Conservation priority gaps in the
-Sunda Banda Seascape, Indonesia
-
 \newpage
 
-# Grant income
--   CBCS Small Grants Scheme (\$4,500 across three successful proposals)
-    \hfill (2021)
-    -   ARC Laureate Postgraduate Scholarship (\$119,376 over 4 years)
-    \hfill Nov 2014-2018
--   Seafood Footprint Displacement Top-up Scholarship (Dr. Carissa
-    Klein, \$5,000) \hfill March-June 2018
--   50 Reefs Top-up Scholarship (\$5,000) \hfill Sept. 2017
--   University of Queensland Career Development Award (\$5,000)
-    \hfill May 2017
--   Taylor and Francis University of Queensland Library Excellence Award
-    in Research (\$1,000) \hfill  May 2017
--   Smithsonian Tropical Research Institute Short-Term Fellowship
-    (\$2,000) \hfill June-Nov. 2013
+# Select Grants\* and consulting$\dagger$
+
+I have attracted \>AUD\$1.4 million in funding for my research in the
+past 5 years.
+
+Australia Awards Short-course in Papua New Guijnea: Nature-based
+solutions and climate-change $\dagger$ (\$50k)\* \hfill (2025)
+
+Inspiring Queensland National Science Week Grant (Brisbane Soapbox
+Science) $\dagger$ (\$3.5k) \hfill (2025)
+
+World Wildlife Fund - Fiji Sediment Run-off modelling (\$25k) $\dagger$
+\hfill (2024)
+
+Bush Heritage Bespoke R Training Course (\$16.5k) $\dagger$ \hfill
+(2024)
+
+Future Earth Australia Seizing and Creating Opportunities grants
+(\$6k)\* (2024)
+
+Inspiring Queensland National Science Week Grant (Brisbane Soapbox
+Science) $\dagger$ (\$4k) \hfill (2024)
+
+Fiji Coral Reef Resilience Feasibility Study (\$40k) $\dagger$ \hfill
+(2023-2024)
+
+SPREP Kiwa Initiative Micro-credentials (\$135,335) $\dagger$ \hfill
+(2024)
+
+Griffith Advancing Women's Research Success Grant (\$4,601.73)\* \hfill
+(2023)
+
+Blue Economy Cooperative Research Centre Marine Spatial Planning Project
+(\$1.3 million) \* (2022-present)
+
+CBCS Small Grants Scheme (\$4,500 across three successful proposals)\*
+\hfill (2021)
+
+ARC Laureate Postgraduate Scholarship (\$119,376 over 4 years) \hfill
+Nov 2014-2018
 
 # Supervision
 
--   Maria Christofidis, Griffith PhD student (2023-present), Co-primary
-    supervisor: Assessing and planning for climate change impacts to
-    aquaculture to inform resilient and sustainable expansion
-    
--   Alana McPherson, Griffith Honours student (2023-present), Co-primary supervisor: Evaluating marine protected areas
+-   Maxence Fontaine, masters student (2025)
 
--   Sophie Petrie, Griffith Environmental Science Capstone Project (2023-present), primary
-    supervisor. The potential impacts of land-based aquaculture on
-    threatened species in Queensland.
+-   Simon Metcher, current PhD, previous, Griffith honours student
+    (2024 - first class)
 
--   Emma Arnett, Master's Student (2020-2021), Co-primary supervisor:
-    Quantifying redundant global fisheries trade
+-   Jade Arnold, Griffith masters student (2024) (first class)
 
--   Ella Sinclair, Volunteer (2020): Primary supervisor for conducting
-    literature review of monitoring and evluation indicators for focal
-    WWF Coral Reef Rescue Initiative countries
+-   Dr Jackson Stockbridge, Post-doctoral fellow (2023- present)
+
+-   Marina Christofidis, Griffith PhD student (2023-present)
+
+-   Alana McPherson, Griffith Honours student (2023)
+
+-   Sophie Petrie, Griffith Environmental Science Capstone Project
+    (2023)
+
+-   Emma Arnett, UQ Master's Student (2020-2021)
 
 # Select general audience publications (links provided)
 
-1. *Kuempel, C.D.* (2023) Farmed salmon or chicken? Environmental footprint
-research can guide eco-conscious consumers. [The Conversation](https://theconversation.com/farmed-salmon-or-chicken-environmental-footprint-research-can-guide-eco-conscious-consumers-199773)
+1.  *Kuempel, C.D.* and Chrisofidis M. (2025) 98% of Queensland prawn
+    areas at risk of inundation by rising seas this century [The
+    Conversation](https://theconversation.com/98-of-queensland-prawn-areas-at-risk-of-inundation-by-rising-seas-this-century-253330)
 
-2. Almaraz, M. and *Kuempel, C.D.* (2022) The impact of excessive protein consumption on human wastewater nitrogen loading of US waters. [Global Water Forum](https://globalwaterforum.org/2022/08/04/the-impact-of-excessive-protein-consumption-on-human-wastewater-nitrogen-loading-of-us-waters/)
+2.  *Kuempel, C.D.* (2023) Farmed salmon or chicken? Environmental
+    footprint research can guide eco-conscious consumers. [The
+    Conversation](https://theconversation.com/farmed-salmon-or-chicken-environmental-footprint-research-can-guide-eco-conscious-consumers-199773)
 
-3. *Kuempel, C.D.* and Alyssa Giffin (2021) Resilient reefs, resilient
-communities: how can we get there? [Catchment to Coast](https://catchmenttocoast.org/2021/12/14/resilient-reefs-and-resilient-communities-how-can-we-get-there/)
+3.  Almaraz, M. and *Kuempel, C.D.* (2022) The impact of excessive
+    protein consumption on human wastewater nitrogen loading of US
+    waters. [Global Water
+    Forum](https://globalwaterforum.org/2022/08/04/the-impact-of-excessive-protein-consumption-on-human-wastewater-nitrogen-loading-of-us-waters/)
 
-4. Jones, K., Friedlander, A. Halpern, B., *Kuempel, C.D.*, Klein, C.
-Grantham, H., Possingham, H., Watson, J., Shumway, N., Venter, O. (2018)
-New map shows that only 13% of the oceans are still truly wild. [The
-Conversation](https://theconversation.com/new-map-shows-that-only-13-of-the-oceans-are-still-truly-wild-100820#:~:text=Our%20research%2C%20published%20in%20the,human%20activities%20are%20most%20intense.)
+4.  *Kuempel, C.D.* and Alyssa Giffin (2021) Resilient reefs, resilient
+    communities: how can we get there? [Catchment to
+    Coast](https://catchmenttocoast.org/2021/12/14/resilient-reefs-and-resilient-communities-how-can-we-get-there/)
 
-5. *Kuempel, C.D.* Southern Coral Sea (2017) [Reef Life Survey blog](https://reeflifesurvey.com/southern-coral-sea/)
+5.  Jones, K., Friedlander, A. Halpern, B., *Kuempel, C.D.*, Klein, C.
+    Grantham, H., Possingham, H., Watson, J., Shumway, N., Venter, O.
+    (2018) New map shows that only 13% of the oceans are still truly
+    wild. [The
+    Conversation](https://theconversation.com/new-map-shows-that-only-13-of-the-oceans-are-still-truly-wild-100820#:~:text=Our%20research%2C%20published%20in%20the,human%20activities%20are%20most%20intense.)
 
+6.  *Kuempel, C.D.* Southern Coral Sea (2017) [Reef Life Survey
+    blog](https://reeflifesurvey.com/southern-coral-sea/)
 
 # Select media interviews and engagement (links provided)
 
-1. Which food is better for the planet? [The Washington Post](https://www.washingtonpost.com/climate-environment/interactive/2023/food-impact-climate-water-wildlife/)
+1.  Which food is better for the planet? [The Washington
+    Post](https://www.washingtonpost.com/climate-environment/interactive/2023/food-impact-climate-water-wildlife/)
 
-2. Food for thought: the carbon footprint of salmon and chicken farming mostly stems from feed. [The Guardian](https://www.theguardian.com/environment/2023/feb/13/food-for-thought-carbon-footprint-of-salmon-and-chicken-farming-mostly-stems-from-feed-study-suggests) 
+2.  Food for thought: the carbon footprint of salmon and chicken farming
+    mostly stems from feed. [The
+    Guardian](https://www.theguardian.com/environment/2023/feb/13/food-for-thought-carbon-footprint-of-salmon-and-chicken-farming-mostly-stems-from-feed-study-suggests)
 
-3. To lower food emissions consider what your dinner ate. [Popular Science](https://content.isentia.io/?url=https://www.popsci.com/environment/carbon-emissions-meat-livestock/&key=f50e0409ae20644ddfc8e4da71ba50ad&ver=1&mid=920217296&uid=154795)
+3.  To lower food emissions consider what your dinner ate. [Popular
+    Science](https://content.isentia.io/?url=https://www.popsci.com/environment/carbon-emissions-meat-livestock/&key=f50e0409ae20644ddfc8e4da71ba50ad&ver=1&mid=920217296&uid=154795)
 
-4. Farmed chicken and salmon have a global footprint. [Nature](https://www.nature.com/articles/d41586-023-00414-5) 
+4.  Farmed chicken and salmon have a global footprint.
+    [Nature](https://www.nature.com/articles/d41586-023-00414-5)
 
-5. Coming out or not, earthquake aid, and what's the most eco-friendly meat? [Triple J Hack](https://www.abc.net.au/triplej/programs/hack/hack/101960520)
+5.  Coming out or not, earthquake aid, and what's the most eco-friendly
+    meat? [Triple J
+    Hack](https://www.abc.net.au/triplej/programs/hack/hack/101960520)
 
-6. Female scientists encouraging children to embrace science [Courier Mail](https://www.couriermail.com.au/news/queensland/bundaberg/female-scientists-encouraging-children-to-embrace-science/news-story/a76c60645f3438df037d12d2f64da262)
-
+6.  Female scientists encouraging children to embrace science [Courier
+    Mail](https://www.couriermail.com.au/news/queensland/bundaberg/female-scientists-encouraging-children-to-embrace-science/news-story/a76c60645f3438df037d12d2f64da262)
 
 # Teaching Experience
 
-I currently convene 3804ENV Marine Ecosystem Modelling and 3606ENV
-Conservation Biology at Griffith University and teach into 3033ESC
-Environmental Data Analytics.
-
-
-
+I currently convene [3804ENV Marine Ecosystem
+Modelling](https://www.griffith.edu.au/study/courses/marine-ecosystem-modelling-3804ENV?location=dom#trimester-1-gold-coast)
+and [3606ENV Conservation
+Biology](https://www.griffith.edu.au/study/courses/conservation-biology-3606ENV?location=dom#trimester-1-gold-coast)
+at Griffith University and teach into 3033ESC Environmental Data
+Analytics, 3332 Marine Natural Resource Management, and Emerging Topics
+in Conservation.

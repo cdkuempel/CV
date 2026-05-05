@@ -1,0 +1,783 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: formatting.tex
+geometry: margin=1in
+title: "CV"
+author: Dr Caitlin D. Kuempel
+orcid: "orcid.org/0000-0003-1609-9706"
+jobtitle: "Senior lecturer · Griffith University, Brisbane, Australia"
+address: "Griffith University, 170 Kessels Rd, Nathan QLD, 4111"
+fontawesome: yes
+email: c.kuempel@griffith.edu.au
+github: cdkuempel
+#phone: "+1 555 5555"
+#web: 'https://cdkuempel.github.io/website/'
+updated: no
+keywords: RMarkdown, academic CV, template
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+# Professional Highlights
+
+> 1. Proven conservation program leader with over a decade of experience
+> delivering applied research and management partnerships across the
+> Pacific and Australia, focused on marine spatial planning, coral reef
+> conservation, watershed management, and sustainable development.
+
+> 2. Track record in project design and delivery: secured and managed over
+> \$1.2 million in project funding in the past two years, leading
+> multi-institutional collaborations with governments, NGOs, and
+> industry.
+
+> 3. Strong implementation and coordination experience: served as
+> Monitoring and Data Management Lead for WWF’s Coral Reef Rescue
+> Initiative and currently lead the Cumulative Impacts Workstream for
+> the Blue Economy Cooperative Research Centre Marine Spatial Planning
+> project.
+
+> 4. Skilled communicator and collaborator: experienced in engaging diverse
+> stakeholders—from local communities to global NGOs—to co-develop
+> data-driven conservation solutions.
+
+> 5. Capacity building and leadership: trained over 300 professionals and
+> students in R programming and decision-support tools such as Marxan;
+> mentor to early-career scientists and conservation practitioners.
+
+> 6. Recognised communicator and advocate: research has been featured in
+> The Guardian, The Washington Post, Time magazine, and The Conversation
+> (\>200,000 reads); finalist in national science communication
+> competitions and Queensland Women in STEM Award 2025.
+
+> 7. Committed to inclusive leadership and organisational excellence: lead
+> of the Sustainable Seas Research group, active participant in
+> Griffith’s Women in Leadership Program and representative on the
+> School’s Early Career Researcher Committee.
+
+# Education
+
+*PhD Conservation Science*, The University of Queensland, St. Lucia,
+QLD, Australia \hfill Sept. 2018
+
+> Thesis: Evaluating trade-offs between quantitative and qualitative
+> protected area objectives Supervisors: Prof. Hugh Possingham, Prof.
+> Catherine Lovelock and Dr. Alienor Chauvenet Dean's Award for
+> Outstanding HDR thesis (ranked within top 10% in field by examiners).
+
+*M.S. Marine Biology* Northeastern University, Nahant, MA \hfill Dec.
+2013
+
+> Coral Reef Ecology (GPA 4.0/4.0), Supervisor: Dr Andrew ALtieri
+
+*BSc Environmental Science (Honours), BA French*, University of Iowa,
+Iowa City, IA \hfill May 2012
+
+> Honors in coral morphometrics, Certificate in Sustainability
+
+# Professional Experience
+
+*Senior Lecturer, Marine Ecosystem Modelling, Griffith University,
+Brisbane, Australia* \hfill June 2022-present
+
+> Balanced profile: 40% teaching, 40% research, 20% service
+
+*Post-doctoral Fellow, ARC CoE for Coral Reef Studies, UQ, Brisbane,
+Australia* \hfill Feb. 2020-May 2022
+
+> Explored ways to manage and monitor climate resilient reefs to benefit
+> people and nature as part of the World Wildlife Fund's Coral Reef
+> Rescue Initiative
+
+*Post-doctoral Fellow, NCEAS, Santa Barbara, CA* \hfill Sept. 2018-Dec.
+2019
+
+> Quantified, compared and mapped the production and environmental
+> impacts of all major food systems as part of a collaborative working
+> group
+
+*Conservation Planning Consultant, IUCN and The University of
+Queensland* \hfill July-Aug.2018
+
+> Collated data and developed conservation plans for four Pacific Island
+> nations using the spatial conservation planning software, Marxan.
+
+*Research Assistant: Smithsonian Tropical Research Institute, Bocas del
+Toro, Panama* \hfill April-Oct. 2014
+
+> Thalassia testdinum Experimental Network (TEN): investigated the
+> impacts of nutrients and grazer abundance on seagrass across a
+> latitudinal gradient (Florida, Belize, Panama).
+
+*Conservation Intern: Central Caribbean Marine Institute, Little Cayman,
+Cayman Islands* \hfill Jan.-April 2014
+
+> Assisted with lionfish management research, coral nursery, and climate
+> data collection. Provided weekly educational talks and tours to guests
+> and tourists.
+
+*Short-Term Fellow: Smithsonian Tropical Research Institute, Bocas del
+Toro, Panama* \hfill June-Dec. 2013
+
+> Investigated the role of consumers in coral-algal community dynamics
+> under the supervision of Dr. Andrew Altieri.
+
+
+# Peer-Reviewed Publications
+
+I have 46 peer-reviewed publications (h-index 22), 17 as lead author,
+\>1700 citations. International collaboration on \~85% of publications.
+See [Web of
+Science](https://www.webofscience.com/wos/author/record/AAV-8807-2020),
+[Google
+scholar](https://scholar.google.com/citations?user=nE8IeT4AAAAJ&hl=en)
+or [ORCID](http://orcid.org/0000-0003-1609-9706)
+
+> 49. Metcher, S., Stockbridge, J.S., **Kuempel,C.D.** (under review). Integrating
+>     sustainable bivalve aquaculture into water quality strategies to mitigate
+>     anthropogenic nitrogen loads. *Marine Pollution Bulletin*
+
+> 48. Arnold, J., Chauvenet, A.M.,**Kuempel,C.D.** (under review). The conservation
+>     potential of Australia's marine protected area network. *Ecological Indicators*
+
+> 47. Christofidis, M., Schoeman, D., Harte, J., Adams, V., Stockbridge, J., 
+>     **Kuempel,C.D.** (under review). Climate analogues as a tool for marine
+>     aquaculture planning and adaptation *Earth's Future*
+
+> 46. Davey, M., Klein, C.J., Roelfsema, C., **Kuempel,C.D.**, Possingham, H.P. (2025). >     A review of the application of coral reef condition indicators in conservation
+>     planning. *Ecological Indicators*.
+
+> 45. **Kuempel, C.D.**, Christofidis, M., Fuller, R., Bush, R.,
+>     Garnett, S.T., Jackson, M.V. (2025). Half of coastal
+>     aquaculture sites in Queensland are in close proximity to
+>     shorebird habitats. *Ocean and Coastal Management*
+
+> 44. Dominguez-Martinez, Klein, Blanchard, Farmery, **Kuempel, C.D.**,
+>     Roberson, Spillias, Cottrell (2025). Seafood Sustainability Challenges for 
+>     Import-Dependent Nations *Reviews in Fisheries Science and Aquaculture*
+
+> 43. Christofidis, M., Lyons, M., **Kuempel, C.D.** (2025). One-third
+>     of Australia's coastal terrestrial aquaculture at risk from sea
+>     level rise. *Aquaculture Science and Management*
+
+> 42. Stockbridge, J.S., Brown, C.J., **Kuempel, C.D.** (2025). Mapping the global
+>     co-location potential of offshorewind energy and aquaculture production. 
+>     *Ocean and Coastal Management* (IF = 4.3)
+
+> 41. Vozzo, M., Christofidis, M. Griffiths, L., Kelly, R., Manion,
+>     M.L., Barmand, S., Bolin, J., Fuenzalida-Miralles, P., Harris, M.,
+>     Issell, A., *Kuempel, C.D.*, Diaz, M., Murunga, M., Palmer, S.,
+>     Schaefer, N., Simpson, J. (2025). Advancing ocean sustainability
+>     through better science integration: perspectives of Early Career
+>     Ocean Professionals *Front. in Ocean Sust.*
+
+> 40. **Kuempel, C.D.**, Stockbridge, J.S., O'Neill, T., Griffiths, L.,
+>     Frid,C.L.J., Brown, C.J. (2025). Frameworks and best practices for
+>     cumulative impact accounting in offshore wind energy development.
+>     *Marine Policy* (IF = 3.8)
+
+> 39. Fleury, A., O'Hara, C.C., Butt, N., Restrepo, J., Halpern, B.S.,
+>     Klein, C.J., **Kuempel, C.D.**, Gaynor, K.M., Bentley, L.K.,
+>     Richardson, A.J., Dunn, D.C. (2024). Spatial and life history
+>     variation in a trait-based species vulnerability and impact model.
+>     *PlosOne* (IF = 3.8)
+
+> 38. **Kuempel, C.D.**, Arnett, E., Klein, C.J. (2024). Quantifying
+>     global redundant fisheries trade to streamline seafood supply
+>     chains. *PlosOne* (IF = 3.8)
+
+> 37. **Kuempel, C.D.** and Suarez-Castro, A.F. (2024) The Global
+>     Biodiversity Framework can be leveraged to better manage
+>     transboundary watersheds. *Proceedings of the National Academy of
+>     Sciences* (IF = 12)
+
+> 36. **Kuempel, C.D.**, Thomas, J., Wenger, A., Jupiter, S.D.,
+>     Suarez-Castro, A.F., Nasim, N., Klein, C.J., Hoegh-Guldberg, O.
+>     (2024). A spatial framework for improved sanitation to support coral reef
+>     conservation. *Environmental Pollution* (IF = 8.9)
+
+> 35. Vella, T., Roberson, L., **Kuempel, C.D.**, Klein, C (2023).
+>     Quantifying the accessibility of sustainable seafood in South East
+>     Queensland, Australia. *Marine and Freshwater Research* (IF = 2.3)
+
+> 34. Adams, V., Chauvenet, A.L.M., Stoudmann, N., Gurney, G.G.,
+>     Brockington, D., **Kuempel, C.D.** (2023). Multiple-use protected
+>     areas are critical to equitable and effective conservation. *One
+>     Earth* (IF = 16.7)
+
+> 33. Halpern, B.S., Frazier, M.,Rayner, P.E., Clawson, S.G., Blanchard,
+>     J.L., Cottrell, R.S., Froehlich, H.E., Gephart, J.A., Jacobsen,
+>     N.S., **Kuempel, C.D.**, M., Moran, D., Nash, K.L., Williams, D.R.
+>     (2023). Matters Arising - Diving deeper into fisheries
+>     disturbance. *Nature Sustainability* (IF = 29.2)
+
+> 32. Froehlich, H., Montgomery, J.C., Williams, D.R., O'Hara, C.,
+>     **Kuempel, C.D.**, Halpern, B.S. (2023). Biological life history
+>     and farming scenarios of marine aquaculture help reduce wild
+>     marine fishing pressure. *Fish and Fisheries* (IF = 7.3)
+
+> 31. Wakwella, A., Wenger, A., Jenkins, A., Lamb, J., **Kuempel,
+>     C.D.**, Claar, D., Corbin, C., Falinski, K., Rivera, A., Grantham,
+>     H.S., Jupiter, S.D. (2023). Integrated watershed management
+>     solutions for healthy coastal ecosystems and people. *Cambridge
+>     Prisms: Coastal Futures*
+
+> 30. **Kuempel, C.D.**, Frazier, M., Verstaen, J., Rayner, P.E.,
+>     Blanchard, J.L., Bouwman, L., Cottrell, R.S., Froehlich, H.E.,
+>     Gephart, J.A., Jacobsen, N.S., McIntyre, P.B., Metian, M., Moran,
+>     D., Nash, K.L., Tobben, J., Williams, D.R., Halpern, B.S. (2023).
+>     Feed drives land-sea overlap of the global cumulative
+>     environmental pressure of farmed chicken and salmon. *Current
+>     Biology* (IF = 11)
+
+> 29. Beger, M., Metaxas, A., Balbar, A.C., McGowan, J.A., Daigle, R.,
+>     **Kuempel, C.D.**, Treml, E.A., Possingham, H.P. (2022).
+>     Demystifying ecological connectivity for actionable spatial
+>     conservation planning. *Trends in Ecology and Evolution* (IF =
+>     18.1 citations = 9)
+
+> 28. Halpern, B.S., Frazier, M., Verstaen, J., Rayner, P.E., Clawson,
+>     S.G., Blanchard, J.L., Cottrell, R.S., Froehlich, H.E., Gephart,
+>     J.A., Jacobsen, N.S., **Kuempel, C.D.**, McIntyre, P.B., Metian,
+>     M., Moran, D., Nash, K.L., Tobben, J., Williams, D.R. (2022). The
+>     cumulative environmental footprint of global food production.
+>     *Nature Sustainability* (IF = 29.2, citations 20)
+
+> 27. Hicks, C.C. Gephart, J.A., Koehn, J.Z., Nakayama, S., Payne, H.,
+>     Allison, E.H., Delhabib, D., Cao, L., Cohen, P.J., Fanzo, J.,
+>     Fluet-Chouinard, E., Gelcich, S., Golden, C.D., Gorospe, K.D.,
+>     Isaacs, M., **Kuempel, C.D.**, Lee, K.N., MacNeil, M.A., Maire,
+>     E., Njuki, J., Rao, N., Sumaila, U.R., Selig, E.R., Thilsted,
+>     S.H., Wabnitz, C.C.C., Naylor, R.L. (2022). Towards Justice in
+>     Blue Food Systems. *Nature Food* (IF = 23.2, citations 14)
+
+> 26. Klein, C.J., **Kuempel, C.D.**, Watson, R.A., Teneva, L., Coll,
+>     M., Mora, C. (2022). Global fishing between jurisdictions with
+>     unequal fisheries management. *Environmental Research Letters* (IF
+>     = 7.8, citations 5)
+
+> 25. Almaraz, M., **Kuempel, C.D.**, Salter, A., Houlton, B.Z.,
+>     Halpern, B.S. (2022). The impact of excessive protein consumption
+>     on human wastewater nitrogen loading of US waters. *Frontiers in
+>     Ecology and the Environment* (IF = 12.2, citations 5)
+
+> 24. Clawson, S.G.,**Kuempel, C.D.**, Blasco, G., Froehlich, H.E.,
+>     Cottrell, R.S., Metian, M., Tobben, J., Williams, D.R., Nash,
+>     K.L., Frazier, M., Verstaen, J., Halpern, B.S. (2022). Mapping the
+>     spatial distribution of global mariculture production.
+>     *Aquaculture* (IF = 4.6, citations 12)
+
+> 23. Williams, B.A., Watson, J.E.M., Beyer, H.L., Klein, C.J.,
+>     Montgomery, J., Runting, R.K., Roberson, L.A., Halpern, B.S.,
+>     Grantham, H.S., **Kuempel, C.D.**, Frazier, M., Venter, O.,
+>     Wenger, A. (2021). The global rarity of intact coastal regions.
+>     *Conservation Biology* (IF = 6.5, citations 39)
+
+> 22. **Kuempel, C.D.**, Simmons, B.A., Davey, M.(2022) Assessing he
+>     status of existing and tentative marine natural World Heritage
+>     areas reveals opportunities to better achieve World Heritage
+>     Convention goals. *Journal of Environmental Management* (IF = 8.4,
+>     citations 1)
+
+> 21. **Kuempel, C.D.**, Tulloch, V.J.D., Giffin, A.L., Simmons, B.A.,
+>     Hagger, V., Phua, C. and Hoegh-Guldberg, O. (2021). Identifying
+>     management opportunities to combat climate, land and marine
+>     threats across less climate exposed coral reefs. *Conservation
+>     Biology* (IF = 6.5, citations 2)
+
+> 20. Roberson, L., Beyer, H.L., O'Hara, C., Watson, J.E.M., Dunn,
+>     Daniel, Klein, C.J., Frazier, M., **Kuempel, C.D.**, Williams, B.,
+>     Grantham, H., Montgomery, J., Kark, S., Runting, R.K. (2021).
+>     Multinational coordination required for conservation of at least
+>     90% of marine species. *Global Change Biology* (IF = 12.3,
+>     citations 16)
+
+> 19. **Kuempel, C.D.**, Chauvenet, A.L.M., Symes, W.S., Possingham,
+>     H.P.P. (2021). Predicted protected area downsizing decreases
+>     habitat representation across terrestrial ecoregions in the
+>     tropics and subtropics. *Conservation Science and Practice* (IF =
+>     3.3, citations 3)
+
+> 18. Suarez-Castro, A.F., Beyer, H.L., **Kuempel, C.D.**, Linke, S.,
+>     Borelli, P., Hoegh-Guldberg, O. (2021). Global forest restoration
+>     opportunities to foster coral reef conservation. *Global Change
+>     Biology* (IF = 12.3, citations 16)
+
+> 17. Cottrell, R.S., Metian, M., Froehlich, H.E., Blanchard, J.L.,
+>     Jacobsen, N.S., McIntyre, P.B., Nash, K.L., Williams, D.R.,
+>     Bouwman, L., Gephart, J.A., **Kuempel, C.D.**, Moran, D.D.,
+>     Troell, M., Halpern, B.S. (2021) Time to rethink trophic levels in
+>     aquaculture policy. *Reviews in Aquaculture* (IF = 11.1, citations
+>     36) *Sena De Silva Award for novelty and impact*
+
+> 16. **Kuempel, C.D.**, Froehlich, H.E., Halpern, B.S. (2021) An
+>     informed though experiment exploring the potential for a paradigm
+>     shift in aquatic food production. *Ocean and Coastal Management*
+>     (IF = 4.3, citations 6)
+
+> 15. Adams, V.M., Dimitrova, N., Possingham, H.P., Allan, J.R.,
+>     **Kuempel, C.D.**, Peterson, N., Kaiye, A. Keako, M., Tulloch,
+>     V.J.D. (2021) Scheduling incremental actions to build a
+>     comprehensive national protected area netowrk for Papua New
+>     Guinea. *Conservation Science and Practice* (IF = 3.3, citations
+>     7)  
+
+> 14. Chauvenet, A.L.M., Watson, J.E.M., Adams, V.M., Di Marco, M.,
+>     Venter, O., Davis, K.J., Mapping, B., Klein, C.J., **Kuempel,
+>     C.D.**, Possingham, H.P. (2020). To achieve big wins for
+>     conservation, prioritise protection of ecoregions closest to
+>     meeting targets. *One Earth* (IF = 16.7, citations 17)
+
+> 13. **Kuempel, C.D.**, Frazier, M., Nash, K.L., Sand Jacobsen, N.,
+>     Williams, D.R., Blanchard, J.L., Cottrell, R.S., McIntyre, P.B.,
+>     Moran, D., Bouwman, L., Froehlich, H.E., Gephart, J.A., Metian,
+>     M., Tobben, J., Halpern, B.S. (2020). Integrating life-cycle and
+>     impact assessments to map food's cumulative environmental
+>     footprint. *One Earth* (IF = 16.7, citations 13)
+
+> 12. Daigle, R., Metaxas, A., Balbar, A., McGowan, J., Treml, E.,
+>     **Kuempel, C.D.**, Possingham, H., Beger, M. (2020).
+>     Operationalizing ecological connectivity to identify spatial
+>     conservation priorities with Marxan Connect. *Methods in Ecology
+>     and Evolution*, (IF = 9.2, citations 87) *Top cited paper 2022*
+
+> 11. **Kuempel, C.D.**, Chauvenet, A.L.M., Possingham, H.P., Adams,
+>     V.M. (2020). Evidence-based guidelines for prioritizing
+>     investments to meet international conservation objectives. *One
+>     Earth* (IF = 16.7, citations 16)
+
+> 10. Halpern, B.S., Blanchard, J.L., Bouwman, L., Cottrell, R.S.,
+>     Froehlich, H.E., Gephart, J.A., Sand Jacobson, N.,**Kuempel,
+>     C.D.**, McIntyre, P.B., Metian, M., Moran, D., Nash, K.L., Tobben,
+>     J., Williams, D.R. (2019). Opinion: Putting all food on the same
+>     table: Achieving sustainable food systems requires full
+>     accounting. *Proceedings of the National Academy of Sciences* (IF
+>     = 12, citations 74)
+
+> 9.  **Kuempel, C.D.**, Jones, K.J., Watson J.E.M., Possingham, H.P.
+>     (2019). Quantifying biases in placement of marine protected areas
+>     relative to abatable biodiversity threats. *Conservation Biology*
+>     (IF = 6.5, citations 39) *Top cited paper 2019*
+
+> 8.  Jantke, K., **Kuempel, C.D.**, McGowan, J.M., Chauvenet, A.L.M.,
+>     Possingham, H.P. (2018). Metrics for evaluating representation
+>     target achievement in protected area networks. *Diversity and
+>     Distributions* (IF = 5, citations 24)
+
+> 7.  Jones, K.J., Klein, C.J., Halpern, B.S., Venter, O., Grantham, H.,
+>     **Kuempel, C.D.**, Shumway, N., Friedlander, A.M., Possingham,
+>     H.P., Watson, J.E.M. (2018). The location and protection status of
+>     Earth's diminishing marine wilderness. *Current Biology* (IF = 11,
+>     citations 240)
+
+> 6.  **Kuempel, C.D.**, Adams, V.M., Possingham H.P., Bode M. (2018)
+>     Bigger or better: the relative benefits of protected area network
+>     expansion and enforcement for the conservation of an exploited
+>     species. *Conservation Letters* (IF = 8.3, citations 41)
+
+> 5.  Campbell, J.E., Altieri, A.H., Johnston, L., **Kuempel, C.D.**,
+>     Paperno, R., Paul, V.J., Duffy, J.E. (2018) Herbivore community
+>     determines the magnitude and mechanism of nutrient effects on
+>     subtropical and tropical seagrass. *Journal of Ecology* (IF = 6.3,
+>     citations 36)
+
+> 4.  Chauvenet, A.L.M., **Kuempel, C.D.**, McGowan J., Beger, M.,
+>     Possingham, H.P. (2017). Methods for calculating Protection
+>     Equality for conservation planning. *PloS one* (IF = 3.8,
+>     citations 40)
+
+> 3.  **Kuempel, C.D.** and Altieri A. H. (2017). The emergent role of
+>     small-bodied herbivores in pre-empting phase shifts on degraded
+>     coral reefs. *Scientific Reports* (IF = 4.9, citations 58)
+
+> 2.  **Kuempel, C.D.**, Chauvenet, A.L.M., and Possingham H.P. (2016).
+>     Equitable representation of ecoregions is slowly improving despite
+>     strategic planning shortfalls. *Conservation Letters* (IF = 8.3,
+>     citations 41)
+
+> 1.  Nelson, H.R., **Kuempel, C.D.**, and Altieri, A.H. (2016). The
+>     resilience of reef invertebrate biodiversity to coral mortality.
+>     *Ecosphere* (IF = 3.4, citations 50)
+
+# Other publications, reports and white papers
+
+> 7. Griffiths, Leaning, Cossu, Dunstan, Haward, **Kuempel, C.D.**, Lacharite,
+>   Marsh, Stockbridge, Woolley, Vince, Frid (2025). Key enablers for implementation of
+>   the Australian Marine Spatial Planning Framework. *Blue Economy Cooperative Research >   Centre*
+    
+> 6. Griffiths, Breakey, Bossi, Cossu, Dunstan, Hasan,**Kuempel, C.D.**, Lacharite,
+>   Marsh, Skinsley, Smart, Smith, Stockbridge, Woolley, Frid (2025). Implementing an
+>   Australian Marine Spatial Planning Framework. *Blue Economy Cooperative Research
+    Centre*
+
+> 5. Griffiths, Cossu, Dunstan, Haward, **Kuempel, C.D.**, Lacharite, Leaning, Marsh,
+>   Stockbridge, Woolley, Frid  (2025). Guiding principles for an Austrlaian MSP
+>   Framework. *Blue Economy Cooperative Research Centre*
+
+> 4. Stockbridge and **Kuempel, C.D.** (2024). Identifying synergies and trade-offs
+>   between sectors in the Blue Economy Zone *Blue Economy Cooperative Research Centre*
+
+> 3. Stockbridge and **Kuempel, C.D.** (2024). Evaluation of potential for interaction
+>   and/or conflict among ocean users and the environment in offshore waters in
+>   Australia *Blue Economy Cooperative Research Centre*
+
+> 2. **Kuempel, C.D.** (2023) Sedimentation sifted out of global pollution priorities.
+>    *Science* (IF = 54.5)
+
+> 1. Wenger, Jaurez, Thomas, Amaya, Corbin, Edmond, Falinski, Hill, Jenkins, Jupiter,
+>   **Kuempel, C.D.**, Lamb, Nalley, Omwenga, Oza (2023). A guide for integrated
+>   conservation and sanitation programs and approaches.*Wildlife Conservation Society*
+
+# Grants\* and consulting$\dagger$
+
+DFAT Australia Awards Nature-based solutions short course in Papua New
+Guinea (\$167k) $\dagger$ \hfill (2025)
+
+WWF modelling sediment run-off for Fiji's Great Sea Reef (\$40k)
+$\dagger$ \hfill (2025)
+
+Bush Heritage Bespoke R Training Course (\$16.5k) $\dagger$ \hfill
+(2024)
+
+Inspiring Queensland National Science Week Grant (Brisbane Soapbox
+Science) $\dagger$ (\$4k) \hfill (2024)
+
+WWF Green Climate Fund Fiji Feasibility Study (\$55k) $\dagger$ \hfill
+(2023-2024)
+
+SPREP Kiwa Initiative Micro-credentials (\$135,335) $\dagger$ \hfill
+(2024)
+
+Future Earth Australia Creating Opportunities Grant
+(\$6k)\*\hfill (2023)
+
+Griffith Advancing Women's Research Success Grant (\$4,601.73)\* \hfill
+(2023)
+
+Blue Economy CRC Marine Spatial Planning ($1.3M, responsible for \$270k in
+post-doc salary)\* \hfill (2023)
+
+Global Environmental Facility Coral Reef Rescue project (US\$7M)\*
+\hfill (2022)
+
+CBCS Small Grants Scheme (\$4,500 across three successful proposals)\*
+\hfill (2021)
+
+ARC Laureate Postgraduate Scholarship (\$119,376 over 4 years) \hfill
+Nov 2014-2018
+
+Seafood Footprint Displacement Top-up Scholarship (Dr. Carissa Klein,
+\$5,000) \hfill March-June 2018
+
+50 Reefs Top-up Scholarship (\$5,000) \hfill Sept. 2017
+
+University of Queensland Career Development Award (\$5,000) \hfill May
+2017
+
+Great Barrier Reef Marine Park Authority Science for Management Award
+(\$1,000-declined) \hfill May 2017
+
+Australian Coral Reef Society Writing Retreat Scholarship (\$500) \hfill
+May 2016
+
+Smithsonian Tropical Research Institute Short-Term Fellowship
+(\$2,000)\* \hfill June-Nov. 2013
+
+University of Iowa Old Gold Scholarship (\$12,000) \hfill Aug. 2007-May
+2011
+
+University of Iowa Athletic Scholarship (Rowing) \hfill Jan. 2008-May
+2011
+
+# Select teaching experience
+
+3606ENV [Conservation
+Biology](https://www.griffith.edu.au/study/courses/conservation-biology-3606ENV#trimester-1-gold-coast-campus) -
+course convener, lecturer
+
+> \~110 students (T1 2023 and 2024), SEC/SET \>4 with feedback that I am
+> "knowledgeable and excited about the content of the course and
+> presents lecture material in a way that makes it easy to learn."
+
+3804ENV [Marine Ecosystem
+Modelling](https://www.griffith.edu.au/study/courses/marine-ecosystem-modelling-3804ENV#trimester-1-gold-coast-campus) -
+course convener, lecturer
+
+> \~30 students (T1 2023 and 2024), SEC/SET \>4 with feedback that "I
+> loved this course! The material I found very interesting and
+> challenging. This course made me realise this is the avenue I want to
+> go down after graduation"
+
+3033ESC [Environmental Data
+Analytics](https://www.griffith.edu.au/study/courses/environmental-data-analytics-3033ESC?term=Conservation%20Biology#trimester-2-gold-coast-campus) -
+lecturer
+
+> 4 students (T2 2023), SEC/SET 5 (1 response) with feedback that
+> "Caitie's teaching was great, she was patient and always willing to
+> help. She would often push us to figure out things by giving hints to
+> help guide you without just giving away the answer which I really
+> liked. Definitely one of the best studio/tutorial teachers I've had
+> during my degree."
+
+
+# Supervision (\* denotes primary supervisor)
+
+Ainsley Leaning, PhD (2025 - present)
+
+> Ecosystem characteristication for marine spatial planning using
+> hydroacoustics
+
+Jade Arnold\*, Masters (2024 - first class)
+
+> The conservation potential of Australia's marine protected area
+> network
+
+Simon Metcher\*, current PhD, former Honours Student (2024-current)
+> PhD focused on the impacts of aquaculture production in Australia (domestic
+> scholarship recipients)
+> B.S. (Hons) Assessing bivalve farming potential to mitigate nutrient pollution in the
+> Great Barrier Reef
+
+Siaan Charles\*, Advanced Studies (2024)
+
+> Methods for First nations engagement in Marine Spatial Planning
+
+Dr Jackson Stockbridge\*, Post-doctoral fellow (2023-present)
+
+> Developing a framework for assessing cumulative impacts of the blue
+> economy in Australia
+
+Marina Christofidis\*, PhD Student (2023-present)
+
+> Climate risk to aquaculture production in Australia (international
+> scholarship recipient)
+
+Madeline Davey , PhD (2022 - present)
+
+> PhD focused on metrics and tools for better conservation planning on coral reefs
+
+Alana McPherson, Honours Student (2023-2024)
+
+> Conservation benefits of Marine Protected Areas over time in Australia
+
+Sophie Petrie\*, Capstone project, (2023)
+
+> The Potential Impacts of Aquaculture on Threatened Species in
+> Queensland
+
+Emma Arnett, Master's Student (2020-2021)
+
+> Quantifying like-for-like global seafood trade Now employed at DETSI
+
+Ella Sinclair, Volunteer (2020)
+
+> Primary supervisor for conducting literature review of monitoring and
+> evaluation indicators for WWF Coral Reef Rescue Initiative Now
+> employed as an environmental consultant
+
+# Awards
+
+Queensland Women in STEM Award Finalist (1 of 14 finalists) \hfill (2025)
+
+Vice Chancellor's Research Excellence Award -- Early Career Researcher
+nominee (1 of 4 nominees) \hfill (2023)
+
+Foundation for the WA Museum Fame Lab Semi-finalist: To lower your
+environmental footprint consider what your dinner ate \hfill (2023)
+
+University of Queensland Faculty of Science Awards Rising Star -
+Academic category Finalist \hfill (Dec. 2020)
+
+APEC Science Prize for Innovation, Research and Education Award -
+shortlisted for Australian nominee (2020)
+
+University of Queensland Dean's Award for Outstanding HDR Theses (2018)
+
+Taylor and Francis University of Queensland Library Excellence Award in
+Research (\$1,000) \hfill May 2017
+
+# Select Media and Outreach
+
+As an example of reaching a broad non-scientific audience, my written
+work for The Conversation blog (theconversation.com) has had \>200,000
+readers.
+
+Queensland prawn areas at risk of inundation by rising seas this century
+[The
+Conversation](https://theconversation.com/98-of-queensland-prawn-areas-at-risk-of-inundation-by-rising-seas-this-century-253330#:~:text=About%2098%25%20of%20areas%20approved,them%20particularly%20vulnerable%20to%20inundation)
+
+Which food is better for the planet? [The Washington
+Post](https://www.washingtonpost.com/climate-environment/interactive/2023/food-impact-climate-water-wildlife/)
+
+Food for thought: the carbon footprint of salmon and chicken farming
+mostly stems from feed. [The
+Guardian](https://www.theguardian.com/environment/2023/feb/13/food-for-thought-carbon-footprint-of-salmon-and-chicken-farming-mostly-stems-from-feed-study-suggests)
+
+To lower food emissions consider what your dinner ate. [Popular
+Science](https://content.isentia.io/?url=https://www.popsci.com/environment/carbon-emissions-meat-livestock/&key=f50e0409ae20644ddfc8e4da71ba50ad&ver=1&mid=920217296&uid=154795)
+
+Farmed chicken and salmon have a global footprint.
+[Nature](https://www.nature.com/articles/d41586-023-00414-5)
+
+Coming out or not, earthquake aid, and what's the most eco-friendly
+meat? [Triple J
+Hack](https://www.abc.net.au/triplej/programs/hack/hack/101960520)
+
+Female scientists encouraging children to embrace science [Courier
+Mail](https://www.couriermail.com.au/news/queensland/bundaberg/female-scientists-encouraging-children-to-embrace-science/news-story/a76c60645f3438df037d12d2f64da262)
+
+# Select presentations
+
+*\* oral presentation,* $\dagger$ invited presentation
+
+**Kuempel C**$\dagger$ (2024) Frameworks to assess cumulative impacts of
+Australia's Blue Economy *International Marine Conservation Congress,
+Cape Town, South Africa*
+
+**Kuempel C**$\dagger$ (2024) The need and feasibility of the Fiji Coral
+Reef Resilience project *International Marine Conservation Congress,
+Cape Town, South Africa*
+
+**Kuempel C**$\dagger$ (2024) Frameworks to assess cumulative impacts of
+Australia's Blue Economy *Australian Marine Science Association*
+
+**Kuempel C**$\dagger$ (2023) Frameworks to assess cumulative impacts of
+Australia's Blue Economy *Blue Economy CRC Participants Workshop,
+Kingscliff, Australia*
+
+**Kuempel C**$\dagger$ (2023) Putting Australian Aquaculture on the Map
+*Australian Marine Sciences Association, Gold Coast, Australia*
+
+**Kuempel C**$\dagger$ (2022) Mapping a path for conservation in a
+developing world. *Griffith University, Brisbane, Australia*
+
+**Kuempel C**$\dagger$ (2022) Conservaiton nature in a developing world.
+*Linn-Mar High School, Marion, IA, USA*
+
+**Kuempel C** (2021) Informing management across less-climate exposed
+coral reefs. *International Congress on Conservation Biology*, on-line
+
+**Kuempel C**$\dagger$ (2021) Coral Reef Rescue Initiative: A
+climate-centric approach for managing coral reefs for nature and people.
+*Coral Reef Rehabilitation and Management Program - Coral Triangle
+Initiative*, on-line
+
+# Current service and Outreach Roles
+
+## **Academic**
+
+New Zealand Endeavour Fund Offshore wind working group - international advisory group
+
+International Congress on Conservation Biology 2025 *Steering Committee
+Member*
+
+School of Environment and Science *Early Career Representative*
+(2024-present)
+
+Australian Rivers Institute *Early Career Researcher Representative*
+(2023)
+
+Griffith Women in Leadership 2023 Cohort
+
+Centre for Biodiversity and Conservation Science Management Committee
+*Early Career Researcher Education Lead* (2021-Present)
+
+UNEP MPA Toolbox and Learning Platform *Academic Associate, Content
+editor/coordinator/contributor*
+
+
+Reviewer for international publications
+
+> Nature Sustainability, the Journal of Environmental Management,
+> Biological Conservation, Marine Biology, PLoS One, Global Ecology and
+> Conservation, Coral Reefs, Conservation Letters, Conservation Biology,
+> Diversity and Distributions, Marine Policy, Conservation Science and
+> Practice and PeerJ.
+
+
+## **Community**
+
+Soapbox Science Brisbane co-organiser (2024-present) - community
+engagement to promote women in STEM during National Science Week
+
+Certified Software Carpentries Instructor (2020-present) - specialising
+in introductory to advanced R programming skills and version control
+(e.g., GitHub).
+
+RLadies Brisbane Oraganiser - promoting women in programming (2020-2024)
+
+Marxan Spatial Planning Instructor (2017-current) - successful workshops
+in Australia, Indonesia, Colombia, and online
+
+## **Professional Membership**
+
+Australian Marine Sciences Association
+
+Reef Life Survey Volunteer (Coral Sea expedition 2018)
+
+Australian Coral Reef Society
+
+Society for Conservation Biology \> *Board Member/Treasurer* (2015-2017)
+
+International Society for Reef Studies
+
+World Commission on Protected Areas Young Professionals Group
+
+## **Working Groups**
+
+**Organiser/Participant** Australia's sustainable seafood future, UQ
+Heron Island Research Station, April 2022
+
+**Organiser/Participant** Centre for Biodiversity and Conservation
+Science HDR/ECR Writing workshop, Moreton Bay Research Station, Dec.
+2021
+
+**Participant** Science for Nature and People Partnership (SNAPP)
+Coastal Health working group, NCEAS (on-line), Nov. 2021
+
+**Organiser/Participant** CBCS Integrated Watershed Management Workshop,
+University of Queensland, Oct. 2021
+
+**Panel Participant** Working with "big data" in the biological
+sciences, University of Queensland, July 2021
+
+**Organiser/Participant** Coral Reef Rescue Initiative Near Real-Time
+Monitoring Workshop, WWF online, Sept. 2021
+
+**Participant** Strengthening coastal communities resilience by
+supporting community enterprises, WWF online, Oct. 2020
+
+**Participant** What's the catch? Social and environmental
+sustainability of seafood, Heron Island, University of Queensland Jan
+2021
+
+**Post-doctoral Fellow** Comparing the environmental impacts of global
+food systems, NCEAS, UC Santa Barbara Sept. 2018-2020
+
+**Participant** Sustainable seafood and marine conservation, Heron
+Island, University of Queensland June 2019
+
+**Participant** Incorporating connectivity into spatial conservation
+planning,The Nature Conservancy, Washington D.C. 2017
+
+**Participant/Coordinator** Land-sea conservation planning in Papua New
+Guinea, Port Moresby, Papua New Guinea 2017
+
+**Participant/Coordinator** Marine spatial planning in the Sunda Banda
+Seascape, Bali, Indonesia 2016
+
+**Organizer/Participant** Global Marine Conservation. Lady Elliot
+Island, Australia 2016
+
+# Skills
+
+\textit{Programming:} = R (\textit{advanced}), Github
+(\textit{advanced}), Matlab (\textit{basic}) \textit{Software:} = Marxan
+(\textit{advanced}), Arc/QGIS, Adobe Illustrator, Microsoft Office
