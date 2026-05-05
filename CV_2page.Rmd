@@ -65,7 +65,7 @@ Iowa City, IA \hfill May 2012
 
 # Employment history
 
-Lecturer, Marine Ecosystem Modelling, Griffith University, Nathan,
+Senior Lecturer, Marine Ecosystem Modelling, Griffith University, Nathan,
 Australia \hfill July 2022-present
 
 Post-doctoral Fellow, ARC Centre of Excellence for Coral Reef
@@ -113,6 +113,7 @@ Society for Reef Studies
 
 # Academic distinctions, prizes, and awards
 
+-   QLD Women in STEM Prize Finalist (2025)
 -   University of Queensland Faculty of Science Awards Rising Star -
     Academic category Finalist \hfill (Dec. 2020)
 -   APEC Science Prize for Innovation, Research and Education Award -
@@ -120,11 +121,12 @@ Society for Reef Studies
 -   University of Queensland Dean's Award for Outstanding HDR Theses
     (2018) 
 
-# Select publications (h-index 22, Google Scholar) [Griffith Expert](https://experts.griffith.edu.au/37253-caitie-kuempel), [Google Scholar](https://scholar.google.com.au/citations?user=nE8IeT4AAAAJ&hl=en)
+# Select publications (h-index 24, Google Scholar) [Griffith Expert](https://experts.griffith.edu.au/37253-caitie-kuempel), [Google Scholar](https://scholar.google.com.au/citations?user=nE8IeT4AAAAJ&hl=en)
 
 I have a total of 49 publications (17 first author, 3 last author)
 
-1.  Metcher, S., Stockbridge, J., **Kuempel, C.D.** (in review). Integrating     sustainable   bivalve aquaculture into water quality strategies to mitigate anthropogenic nitrogen   loads   *Marine Pollution Bulletin*
+1.  Metcher, S., Stockbridge, J., **Kuempel, C.D.** (2026). Integrating     sustainable   bivalve aquaculture into water quality strategies to mitigate anthropogenic nitrogen   loads   *Marine Pollution Bulletin*
+
 2. **Kuempel, C.D.**, Christofidis, M., Fuller, R., Bush, R.,
      Garnett, S.T., Jackson, M.V. (2025). Half of coastal
      aquaculture sites in Queensland are in close proximity to
@@ -134,36 +136,39 @@ I have a total of 49 publications (17 first author, 3 last author)
      of Australia's coastal terrestrial aquaculture at risk from sea
      level rise. *Aquaculture Science and Management*
 
-4. Stockbridge, J.S., Brown, C.J., **Kuempel, C.D.** (2025). Mapping the global co-location potential of offshore
-     wind energy and aquaculture production. *Ocean and Coastal
-     Management* (IF = 4.3)
+4. Stockbridge, J.S., Brown, C.J., **Kuempel, C.D.** (2025). Mapping the global co-location            potential of offshore wind energy and aquaculture production. *Ocean and Coastal
+     Management*
 
 5. **Kuempel, C.D.**, Stockbridge, J.S., O'Neill, T., Griffiths, L.,
      Frid,C.L.J., Brown, C.J. (2025). Frameworks and best practices for
      cumulative impact accounting in offshore wind energy development.
-     *Marine Policy* (IF = 3.8)
+     *Marine Policy* 
 
 6.  *Kuempel, C.D.* and Suarez-Castro, A.F. (2024). The Global
     Biodiversity Framework can be leveraged to better manage
     transboundary watersheds. *PNAS*
+    
 7.  *Kuempel, C.D.*, Frazier, M., Verstaen, J., Rayner, P.E., Blanchard,
     J.L., Bouwman, L., Cottrell, R.S., Froehlich, H.E., Gephart, J.A.,
     Jacobsen, N.S., McIntyre, P.B., Metian, M., Moran, D., Nash, K.L.,
     Tobben, J., Williams, D.R., Halpern, B.S. (2023). Environmental
     footprints of farmed chicken and salmon bridge the land and sea.
     *Current Biology*
+    
 8.  Halpern, B.S., Frazier, M., Verstaen, J., Rayner, P.E., Clawson,
     S.G., Blanchard, J.L., Cottrell, R.S., Froehlich, H.E., Gephart,
     J.A., Jacobsen, N.S., *Kuempel, C.D.*, McIntyre, P.B., Metian, M.,
     Moran, D., Nash, K.L., Tobben, J., Williams, D.R. (2022). The
     environmental footprint of global food production. *Nature
     Sustainability*
+    
 9.  *Kuempel, C.D.*, Frazier, M., Nash, K.L., Sand Jacobsen, N.,
     Williams, D.R., Blanchard, J.L., Cottrell, R.S., McIntyre, P.B.,
     Moran, D., Bouwman, L., Froehlich, H.E., Gephart, J.A., Metian, M.,
     Tobben, J., Halpern, B.S. (2020). Integrating life-cycle and impact
     assessments to map food's cumulative environmental footprint. *One
     Earth*
+    
 10.  *Kuempel, C.D.* Adams, V.M., Possingham H.P., Bode M. (2018) Bigger
     or better: the relative benefits of protected area network expansion
     and enforcement for the conservation of an exploited species.
@@ -173,10 +178,6 @@ I have a total of 49 publications (17 first author, 3 last author)
 
 *Kuempel, C.D.* (2023) Sedimentation sifted out of global pollution
 priorities. *Science*
-
-Wakwella, A., Wenger, A., *Kuempel, C.D.*, et al. (2022) Managing
-Watersheds for Coral Reefs and Public Health. A Vibrant Oceans
-Initiative Whitepaper.
 
 \newpage
 
@@ -188,20 +189,8 @@ past 5 years.
 Australia Awards Short-course in Papua New Guijnea: Nature-based
 solutions and climate-change $\dagger$ (\$50k)\* \hfill (2025)
 
-Inspiring Queensland National Science Week Grant (Brisbane Soapbox
-Science) $\dagger$ (\$3.5k) \hfill (2025)
-
 World Wildlife Fund - Fiji Sediment Run-off modelling (\$25k) $\dagger$
 \hfill (2024)
-
-Bush Heritage Bespoke R Training Course (\$16.5k) $\dagger$ \hfill
-(2024)
-
-Future Earth Australia Seizing and Creating Opportunities grants
-(\$6k)\* (2024)
-
-Inspiring Queensland National Science Week Grant (Brisbane Soapbox
-Science) $\dagger$ (\$4k) \hfill (2024)
 
 Fiji Coral Reef Resilience Feasibility Study (\$40k) $\dagger$ \hfill
 (2023-2024)
@@ -209,65 +198,39 @@ Fiji Coral Reef Resilience Feasibility Study (\$40k) $\dagger$ \hfill
 SPREP Kiwa Initiative Micro-credentials (\$135,335) $\dagger$ \hfill
 (2024)
 
-Griffith Advancing Women's Research Success Grant (\$4,601.73)\* \hfill
-(2023)
-
 Blue Economy Cooperative Research Centre Marine Spatial Planning Project
 (\$1.3 million) \* (2022-present)
 
-CBCS Small Grants Scheme (\$4,500 across three successful proposals)\*
-\hfill (2021)
-
-ARC Laureate Postgraduate Scholarship (\$119,376 over 4 years) \hfill
-Nov 2014-2018
-
 # Supervision
 
--   Maxence Fontaine, masters student (2025)
-
--   Simon Metcher, current PhD, previous, Griffith honours student
-    (2024 - first class)
-
--   Jade Arnold, Griffith masters student (2024) (first class)
-
--   Dr Jackson Stockbridge, Post-doctoral fellow (2023- present)
-
--   Marina Christofidis, Griffith PhD student (2023-present)
-
--   Alana McPherson, Griffith Honours student (2023)
-
--   Sophie Petrie, Griffith Environmental Science Capstone Project
-    (2023)
-
--   Emma Arnett, UQ Master's Student (2020-2021)
+*Current PhD students:* Marina Christofidis, Simon Metcher, Ainsley Leaning, Marc Koh, Alex Peska
+*Current Honours student:* Ebony Shannong
+*Alumni:* Dr Jackson Stockbridge (Post-doctoral Fellow), Jade Arnold (Master's student), Emma Arnett (Master's student), Alana McPherson (Honours student), Maxence Fontain (Master's student), Sophie Petrie (Capstone project)
 
 # Select general audience publications (links provided)
 
 1.  *Kuempel, C.D.* and Chrisofidis M. (2025) 98% of Queensland prawn
     areas at risk of inundation by rising seas this century [The
-    Conversation](https://theconversation.com/98-of-queensland-prawn-areas-at-risk-of-inundation-by-rising-seas-this-century-253330)
+    Conversation](https://theconversation.com/98-of-queensland-prawn-areas-at-risk-of-inundation-     by-rising-seas-this-century-253330)
 
 2.  *Kuempel, C.D.* (2023) Farmed salmon or chicken? Environmental
     footprint research can guide eco-conscious consumers. [The
-    Conversation](https://theconversation.com/farmed-salmon-or-chicken-environmental-footprint-research-can-guide-eco-conscious-consumers-199773)
+    Conversation](https://theconversation.com/farmed-salmon-or-chicken-environmental-footprint-re     search-can-guide-eco-conscious-consumers-199773)
 
 3.  Almaraz, M. and *Kuempel, C.D.* (2022) The impact of excessive
     protein consumption on human wastewater nitrogen loading of US
     waters. [Global Water
-    Forum](https://globalwaterforum.org/2022/08/04/the-impact-of-excessive-protein-consumption-on-human-wastewater-nitrogen-loading-of-us-waters/)
+    Forum](https://globalwaterforum.org/2022/08/04/the-impact-of-excessive-protein-consumption-on     -human-wastewater-nitrogen-loading-of-us-waters/)
 
 4.  *Kuempel, C.D.* and Alyssa Giffin (2021) Resilient reefs, resilient
     communities: how can we get there? [Catchment to
-    Coast](https://catchmenttocoast.org/2021/12/14/resilient-reefs-and-resilient-communities-how-can-we-get-there/)
+    Coast](https://catchmenttocoast.org/2021/12/14/resilient-reefs-and-resilient-communities-how-     can-we-get-there/)
 
 5.  Jones, K., Friedlander, A. Halpern, B., *Kuempel, C.D.*, Klein, C.
     Grantham, H., Possingham, H., Watson, J., Shumway, N., Venter, O.
     (2018) New map shows that only 13% of the oceans are still truly
     wild. [The
-    Conversation](https://theconversation.com/new-map-shows-that-only-13-of-the-oceans-are-still-truly-wild-100820#:~:text=Our%20research%2C%20published%20in%20the,human%20activities%20are%20most%20intense.)
-
-6.  *Kuempel, C.D.* Southern Coral Sea (2017) [Reef Life Survey
-    blog](https://reeflifesurvey.com/southern-coral-sea/)
+    Conversation](https://theconversation.com/new-map-shows-that-only-13-of-the-oceans-are-still-     truly-wild-100820#:~:text=Our%20research%2C%20published%20in%20the,human%20activities%20are%2     0most%20intense.)
 
 # Select media interviews and engagement (links provided)
 

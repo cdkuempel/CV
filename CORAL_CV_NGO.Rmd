@@ -13,7 +13,7 @@ fontawesome: yes
 email: c.kuempel@griffith.edu.au
 github: cdkuempel
 #phone: "+1 555 5555"
-#web: 'https://cdkuempel.github.io/website/'
+web: 'www.sustainableseasgroup.com'
 updated: no
 keywords: RMarkdown, academic CV, template
 fontfamily: mathpazo

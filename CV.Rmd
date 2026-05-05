@@ -8,7 +8,7 @@ geometry: margin=1in
 title: "CV"
 author: Dr Caitlin D. Kuempel
 orcid: "orcid.org/0000-0002-9577-6885"
-jobtitle: "Lecturer · Griffith University, Brisbane, Australia"
+jobtitle: "Senior Lecturer · Griffith University, Brisbane, Australia"
 address: "Griffith University, 170 Kessels Rd, Nathan QLD, 4111"
 fontawesome: yes
 email: c.kuempel@griffith.edu.au
